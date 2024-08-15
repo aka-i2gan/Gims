@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz_1_4</string>
+
+    <!--  Категории вопросов, полные названия -->
+    <string name="block_full_vvp">Внутренние водные пути Российской Федерации</string>
+    <string name="block_full_vv">Внутренние воды Российской Федерации</string>
+    <string name="block_full_mp">Внутренние морские воды и территориальное море Российской Федерации</string>
+
+    <string name="block_full_mms">Маломерное моторное судно</string>
+    <string name="block_full_gd">Гидроцикл</string>
+    <string name="block_full_mps">Маломерное парусное судно</string>
+    <string name="block_full_ok">Судно особой конструкции</string>
+
+    <!--  Категории - короткое название -->
+    <string name="block_vvp">ВВП</string>
+    <string name="block_vv">ВВ</string>
+    <string name="block_mp">МП</string>
+
+    <string name="block_mms">ММС</string>
+    <string name="block_gd">ГД</string>
+    <string name="block_mps">МПС</string>
+    <string name="block_ok">С</string>
+
+    <!--  Extras - Пересылаемые данные  -->
+    <string name="extrax_to_cats">block</string>
+
+</resources>
