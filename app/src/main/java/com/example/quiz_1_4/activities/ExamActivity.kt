@@ -159,9 +159,9 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
             answerView(correctPos, R.drawable.correct_option_border_bg)
 
             if (mCurrentPosition == mQuestionList!!.size) {
-                bndCl.btnSubmit.text = "Finish"
+                bndCl.btnSubmit.text = "Завершить"
             } else {
-                bndCl.btnSubmit.text = "Go to next question"
+                bndCl.btnSubmit.text = "Слещующий вопрос"
             }
             mSelectedOptionPosition = 0
         }
@@ -198,7 +198,7 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
 
         // Если последний вопрос - текст кнопки - Finish
         if (mCurrentPosition == mQuestionList!!.size) {
-            bndCl.btnSubmit.text = "Finish"
+            bndCl.btnSubmit.text = "Завершить"
         } else {
             bndCl.btnSubmit.text = "Следующий вопрос"
         }
