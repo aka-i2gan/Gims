@@ -6603,7 +6603,7 @@ object VVP {
         val vvp_4_q1 = Question(
             id = "ВВП.4.1",
             question = "Что измеряет барометр-анероид?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_1,
             optionOne = "Атмосферное давление",
             optionTwo = "Влажность воздуха",
             optionThree = "Силу ветра",
@@ -6617,7 +6617,7 @@ object VVP {
         val vvp_4_q2 = Question(
             id = "ВВП.4.2",
             question = "Что измеряется ручным анемометром?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_2,
             optionOne = "Атмосферное давление",
             optionTwo = "Направление ветра",
             optionThree = "Скорость ветра",
@@ -6630,7 +6630,7 @@ object VVP {
         val vvp_4_q3 = Question(
             id = "ВВП.4.3",
             question = "Как называется наивысшая точка волнового профиля?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_3,
             optionOne = "Взброс",
             optionTwo = "Высота",
             optionThree = "Гребень",
@@ -6643,7 +6643,7 @@ object VVP {
         val vvp_4_q4 = Question(
             id = "ВВП.4.4",
             question = "Как называется расстояние (h) от подошвы до гребня волны?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_4,
             optionOne = "Высота волны",
             optionTwo = "Диаметр волны",
             optionThree = "Длина волны",
@@ -6656,7 +6656,7 @@ object VVP {
         val vvp_4_q5 = Question(
             id = "ВВП.4.5",
             question = "Как называется ветер, дующий в сторону берега?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_5,
             optionOne = "Навальный",
             optionTwo = "Прибрежный",
             optionThree = "Привальный",
@@ -6669,7 +6669,7 @@ object VVP {
         val vvp_4_q6 = Question(
             id = "ВВП.4.6",
             question = "Как называется разновидность тумана при видимости от 1 до 10 км?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_6,
             optionOne = "Дымка",
             optionTwo = "Мгла",
             optionThree = "Морось",
@@ -6682,7 +6682,7 @@ object VVP {
         val vvp_4_q7 = Question(
             id = "ВВП.4.7",
             question = "Как называется расстояние между гребнями или подошвами двух смежных волн?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_6,
             optionOne = "Бег волны",
             optionTwo = "Высота волны",
             optionThree = "Длина волны",
@@ -6695,7 +6695,7 @@ object VVP {
         val vvp_4_q8 = Question(
             id = "ВВП.4.8",
             question = "Как называется область с повышенным давлением, которое понижается от центра к периферии?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_8,
             optionOne = "Антициклон",
             optionTwo = "Циклон",
             optionThree = "Штиль",
@@ -6708,7 +6708,7 @@ object VVP {
         val vvp_4_q9 = Question(
             id = "ВВП.4.9",
             question = "Признаком какого изменения погоды является резкое падение атмосферного давления?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_1,
             optionOne = "Изменения направления ветра",
             optionTwo = "Приближения шторма",
             optionThree = "Улучшения погоды",
@@ -6721,7 +6721,7 @@ object VVP {
         val vvp_4_q10 = Question(
             id = "ВВП.4.10",
             question = "Как называется явление скопления микроскопических капелек воды в нижних слоях атмосферы?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_10,
             optionOne = "Дымка",
             optionTwo = "Мгла",
             optionThree = "Морось",
@@ -6734,7 +6734,7 @@ object VVP {
         val vvp_4_q11 = Question(
             id = "ВВП.4.11",
             question = "Как называется интенсивное (при забрызгивании) нарастание слоя льда на палубе, фальшборте, надстройках, рангоуте и палубных судовых устройствах?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_11,
             optionOne = "Замораживание",
             optionTwo = "Наледь",
             optionThree = "Обледенение",
@@ -6747,7 +6747,7 @@ object VVP {
         val vvp_4_q12 = Question(
             id = "ВВП.4.12",
             question = "Как называется ветер, дующий против течения реки?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_12,
             optionOne = "Бриз",
             optionTwo = "Верховой",
             optionThree = "Встречный",
@@ -6760,7 +6760,7 @@ object VVP {
         val vvp_4_q13 = Question(
             id = "ВВП.4.13",
             question = "Как называется прибор для наблюдения за изменениями атмосферного давления и графической записи показаний?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_13,
             optionOne = "Анемометр",
             optionTwo = "Барограф",
             optionThree = "Барометр",
@@ -6773,7 +6773,7 @@ object VVP {
         val vvp_4_q14 = Question(
             id = "ВВП.4.14",
             question = "Какую погоду следует ожидать при резком падении атмосферного давления и появлении перисто-кучевых облаков?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.vvp_4_14,
             optionOne = "Грозу и шторм через 1-2 часа",
             optionTwo = "Изменение направления ветра",
             optionThree = "Усиления дождя",
@@ -6787,7 +6787,7 @@ object VVP {
         val vvp_4_q15 = Question(
             id = "ВВП.4.15",
             question = "Укажите единицу измерения силы ветра.",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Балл",
             optionTwo = "Градус",
             optionThree = "Км/час",
@@ -6800,7 +6800,7 @@ object VVP {
         val vvp_4_q16 = Question(
             id = "ВВП.4.16",
             question = "Что означает выражение \"Шторм 9 баллов\"?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Ветер силой 9 баллов",
             optionTwo = "Ветер скоростью 9 км/час",
             optionThree = "Ветер скоростью 9 м/сек",
@@ -6813,7 +6813,7 @@ object VVP {
         val vvp_4_q17 = Question(
             id = "ВВП.4.17",
             question = "Как называется ветер, при котором воздух перемещается с запада на восток?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Восточный",
             optionTwo = "Западный",
             optionThree = "Северный",
@@ -6827,7 +6827,7 @@ object VVP {
         val vvp_4_q18 = Question(
             id = "ВВП.4.18",
             question = "Какое название носят приливы, имеющие две полные и две малые воды в течение лунных суток?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Квадратурные",
             optionTwo = "Полусуточные",
             optionThree = "Сизигийные",
@@ -6840,7 +6840,7 @@ object VVP {
         val vvp_4_q19 = Question(
             id = "ВВП.4.19",
             question = "Какое название носят приливы, имеющие одну полную и одну малую воду в течение суток?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Квадратурные",
             optionTwo = "Полусуточные",
             optionThree = "Сизигийные",
@@ -6853,7 +6853,7 @@ object VVP {
         val vvp_4_q20 = Question(
             id = "ВВП.4.20",
             question = "Какое название носят приливы, которые наблюдаются в дни новолуния и полнолуния?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Полусуточные",
             optionTwo = "Суточные",
             optionThree = "Сизигийные",
@@ -6866,7 +6866,7 @@ object VVP {
         val vvp_4_q21 = Question(
             id = "ВВП.4.21",
             question = "Какое название носят приливы, которые наблюдаются в дни первой и последней четвертей луны?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Квадратурные",
             optionTwo = "Полусуточные",
             optionThree = "Сизигийные",
@@ -6879,7 +6879,7 @@ object VVP {
         val vvp_4_q22 = Question(
             id = "ВВП.4.22",
             question = "Где будет находиться область высокого давления по отношению к человеку, стоящему спиной к ветру в северном полушарии?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Впереди",
             optionTwo = "Слева",
             optionThree = "Со стороны спины",
@@ -6893,7 +6893,7 @@ object VVP {
         val vvp_4_q23 = Question(
             id = "ВВП.4.23",
             question = "Как называется ветер, который дует днем с моря на сушу, а ночью с суши на море?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Бора",
             optionTwo = "Бриз",
             optionThree = "Муссон",
@@ -6906,7 +6906,7 @@ object VVP {
         val vvp_4_q24 = Question(
             id = "ВВП.4.24",
             question = "По какой шкале производится визуальная оценка силы ветра?",
-            image = R.drawable.vvp_5_,
+            image = R.drawable.question,
             optionOne = "Бофорта",
             optionTwo = "Кельвина",
             optionThree = "Саффира - Симпсона",
