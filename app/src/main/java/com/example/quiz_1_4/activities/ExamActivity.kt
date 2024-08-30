@@ -21,6 +21,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.quiz_1_4.Files.Constants
 import com.example.quiz_1_4.Files.VVP
+import com.example.quiz_1_4.Files.MMS
 import com.example.quiz_1_4.R
 import com.example.quiz_1_4.classes.Question
 import com.example.quiz_1_4.databinding.ActivityExamBinding
@@ -85,7 +86,7 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
          * из урока
          */
         // получаем список вопросов
-        mQuestionList = VVP.getVVPQuestions()
+        mQuestionList = MMS.getMMSQuestions()
 
         setQuestion()
 
