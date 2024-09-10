@@ -12,7 +12,7 @@ object MMS {
         val mms_1_1_q1 = Question(
             id = "ММС 1.1.1",
             question = "Как называется ширина корпуса маломерного судна с учетом выступающих частей?",
-            image = R.drawable.mms_1_1_1,
+            image = R.drawable.pic_3755af72,
             optionOne = "Габаритная",
             optionTwo = "Конструктивная",
             optionThree = "На мидель-шпангоуте",
@@ -25,7 +25,7 @@ object MMS {
         val mms_1_1_q2 = Question(
             id = "ММС 1.1.2",
             question = "Как называется устройство, изображенное на рисунке?",
-            image = R.drawable.mms_1_1_2,
+            image = R.drawable.pic_1421fa1f,
             optionOne = "Баллер",
             optionTwo = "Вьюшка",
             optionThree = "Румпель",
@@ -38,7 +38,7 @@ object MMS {
         val mms_1_1_q3 = Question(
             id = "ММС 1.1.3",
             question = "Как называется линия соприкосновения корпуса судна на плаву с поверхностью воды?",
-            image = R.drawable.mms_1_1_3,
+            image = R.drawable.pic_ced7aee0,
             optionOne = "Валовая линия",
             optionTwo = "Ватерлиния",
             optionThree = "Линия осадки",
@@ -51,7 +51,7 @@ object MMS {
         val mms_1_1_q4 = Question(
             id = "ММС 1.1.4",
             question = "Как называется носовой отсек между форштевнем и первой водонепроницаемой переборкой?",
-            image = R.drawable.mms_1_1_4,
+            image = R.drawable.pic_fde5988f,
             optionOne = "Бак",
             optionTwo = "Форпик",
             optionThree = "Форпост",
@@ -64,7 +64,7 @@ object MMS {
         val mms_1_1_q5 = Question(
             id = "ММС 1.1.5",
             question = "Как называется способность судна держаться на поверхности воды, имея заданную осадку при определенном количестве груза и людей на борту?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Непотопляемость",
             optionTwo = "Остойчивость",
             optionThree = "Плавучесть",
@@ -77,7 +77,7 @@ object MMS {
         val mms_1_1_q6 = Question(
             id = "ММС 1.1.6",
             question = "Как называется разность между осадками носом (Тк) и кормой (Тн)?",
-            image = R.drawable.mms_1_1_6,
+            image = R.drawable.pic_c52ed614,
             optionOne = "Дифферент",
             optionTwo = "Мидель-осадка",
             optionThree = "Средняя осадка",
@@ -90,7 +90,7 @@ object MMS {
         val mms_1_1_q7 = Question(
             id = "ММС 1.1.7",
             question = "Как называется продольная вертикальная плоскость, делящая судно на две симметричные части: левую и правую?",
-            image = R.drawable.mms_1_1_7,
+            image = R.drawable.pic_95d69fc7,
             optionOne = "Диаметральная",
             optionTwo = "Мидель-шпангоута",
             optionThree = "Основная",
@@ -103,7 +103,7 @@ object MMS {
         val mms_1_1_q8 = Question(
             id = "ММС 1.1.8",
             question = "Как называется пояс обшивки, устанавливаемый на низко расположенных палубах, подверженных заливанию водой?",
-            image = R.drawable.mms_1_1_8,
+            image = R.drawable.pic_6d1a5a58,
             optionOne = "Комингс",
             optionTwo = "Планширь",
             optionThree = "Фальшборт",
@@ -116,7 +116,7 @@ object MMS {
         val mms_1_1_q9 = Question(
             id = "ММС 1.1.9",
             question = "Как называется расстояние, измеренное в горизонтальной плоскости между крайними точками носа и кормы корпуса судна без учета выступающих частей? ",
-            image = R.drawable.mms_1_1_9,
+            image = R.drawable.pic_20cadc23,
             optionOne = "Длина габаритная",
             optionTwo = "Длина конструктивная",
             optionThree = "Длина на киле",
@@ -129,7 +129,7 @@ object MMS {
         val mms_1_1_q10 = Question(
             id = "ММС 1.1.10",
             question = "Как называется расстояние, измеренное между поверхностями верхней палубы и горизонтального киля?",
-            image = R.drawable.mms_1_1_10,
+            image = R.drawable.pic_6ac2bc4f,
             optionOne = "Высота борта",
             optionTwo = "Дифферент",
             optionThree = "Осадка",
@@ -142,7 +142,7 @@ object MMS {
         val mms_1_1_q11 = Question(
             id = "ММС 1.1.11",
             question = "Какие приспособления используются на маломерных судах для смягчения ударов при швартовых операциях?",
-            image = R.drawable.mms_1_1_11,
+            image = R.drawable.pic_9377cbdc,
             optionOne = "Кошма",
             optionTwo = "Кранцы",
             optionThree = "Мягкий пластырь",
@@ -155,7 +155,7 @@ object MMS {
         val mms_1_1_q12 = Question(
             id = "ММС 1.1.12",
             question = "Как называется винт, вращающийся на переднем ходу судна против часовой стрелки, если смотреть на него с кормы в нос?",
-            image = R.drawable.mms_1_1_12,
+            image = R.drawable.pic_a852d231,
             optionOne = "Заднего вращения",
             optionTwo = "Левого вращения",
             optionThree = "Переднего вращения",
@@ -168,7 +168,7 @@ object MMS {
         val mms_1_1_q13 = Question(
             id = "ММС 1.1.13",
             question = "В каком из этих случаев судно имеет положительную остойчивость?",
-            image = R.drawable.mms_1_1_13,
+            image = R.drawable.pic_c970e157,
             optionOne = "А и Г",
             optionTwo = "Б",
             optionThree = "Б и В",
@@ -182,7 +182,7 @@ object MMS {
         val mms_1_1_q14 = Question(
             id = "ММС 1.1.14",
             question = "В каком из этих случаев судно имеет отрицательную остойчивость?",
-            image = R.drawable.mms_1_1_14,
+            image = R.drawable.pic_0a0f47d0,
             optionOne = "A",
             optionTwo = "Б",
             optionThree = "В",
@@ -196,7 +196,7 @@ object MMS {
         val mms_1_1_q15 = Question(
             id = "ММС 1.1.15",
             question = "В каком из этих случаев судно находится в состоянии безразличного равновесия?",
-            image = R.drawable.mms_1_1_15,
+            image = R.drawable.pic_ed1e27e6,
             optionOne = "А",
             optionTwo = "Б",
             optionThree = "В",
@@ -210,7 +210,7 @@ object MMS {
         val mms_1_1_q16 = Question(
             id = "ММС 1.1.16",
             question = "Какой из изображенных на схеме отрезков является метацентрической высотой судна?",
-            image = R.drawable.mms_1_1_16,
+            image = R.drawable.pic_4b6978d7,
             optionOne = "GM",
             optionTwo = "С1М",
             optionThree = "СоG",
@@ -223,7 +223,7 @@ object MMS {
         val mms_1_1_q17 = Question(
             id = "ММС 1.1.17",
             question = "Как называется остойчивость при наклонении судна на борт?",
-            image = R.drawable.mms_1_1_17,
+            image = R.drawable.pic_ffba456f,
             optionOne = "Бортовая",
             optionTwo = "Килевая",
             optionThree = "Поперечная",
@@ -236,7 +236,7 @@ object MMS {
         val mms_1_1_q18 = Question(
             id = "ММС 1.1.18",
             question = "Что из перечисленного определяет величину запаса плавучести маломерного судна?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Высота надводного борта",
             optionTwo = "Длина судна",
             optionThree = "Осадка",
@@ -250,7 +250,7 @@ object MMS {
         val mms_1_1_q19 = Question(
             id = "ММС 1.1.19",
             question = "В каком из перечисленных случаев судно на плаву будет находиться в состоянии равновесия?",
-            image = R.drawable.mms_1_1_19,
+            image = R.drawable.pic_95b1d209,
             optionOne = "Силы тяжести и поддержания равны по величине и направлены в противоположные стороны по вертикали",
             optionTwo = "Центр величины (С) находится выше центра тяжести",
             optionThree = "Центр тяжести (G) находится ниже центра величины (С)",
@@ -263,7 +263,7 @@ object MMS {
         val mms_1_1_q20 = Question(
             id = "ММС 1.1.20",
             question = "В каком из перечисленных случаев судно имеет состояние неустойчивого равновесия (нулевую остойчивость)?",
-            image = R.drawable.mms_1_1_19,
+            image = R.drawable.pic_95b1d209,
             optionOne = "Если метацентр находится ниже центра тяжести",
             optionTwo = "Если метацентр совпадает с центром тяжести",
             optionThree = "Если метацентр находится выше центра тяжести",
@@ -276,7 +276,7 @@ object MMS {
         val mms_1_1_q21 = Question(
             id = "ММС 1.1.21",
             question = "Как соответственно называются точки приложения равнодействующих сил тяжести (G) и выталкивающих сил (С)?",
-            image = R.drawable.mms_1_1_19,
+            image = R.drawable.pic_95b1d209,
             optionOne = "Центр веса и центр поддержания",
             optionTwo = "Центр тяжести и центр величины",
             optionThree = "Центр тяжести и центр выталкивания",
@@ -289,7 +289,7 @@ object MMS {
         val mms_1_1_q22 = Question(
             id = "ММС 1.1.22",
             question = "Как называется способность судна после затопления части судовых помещений сохранять плавучесть, остойчивость и частично другие качества?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Непотопляемость",
             optionTwo = "Остойчивость",
             optionThree = "Плавучесть",
@@ -302,7 +302,7 @@ object MMS {
         val mms_1_1_q23 = Question(
             id = "ММС 1.1.23",
             question = "Как называется способность судна держаться на поверхности воды, имея заданную осадку при определенном количестве груза и людей на борту?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Непотопляемость",
             optionTwo = "Остойчивость",
             optionThree = "Плавучесть",
@@ -315,7 +315,7 @@ object MMS {
         val mms_1_1_q24 = Question(
             id = "ММС 1.1.24",
             question = "Как называется способность судна противостоять силам (ветер, волна и др.), вызывающим его наклонение, а после прекращения действия этих сил возвращаться в исходное положение равновесия?",
-            image = R.drawable.mms_1_1_24,
+            image = R.drawable.pic_46e02934,
             optionOne = "Непотопляемость",
             optionTwo = "Остойчивость",
             optionThree = "Плавучесть",
@@ -328,7 +328,7 @@ object MMS {
         val mms_1_1_q25 = Question(
             id = "ММС 1.1.25",
             question = "Отметьте правильное определение понятия остойчивость.",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Способность маломерного судна, выведенного внешним воздействием из положения равновесия, возвращаться в него после прекращения этого воздействия",
             optionTwo = "Способность маломерного судна, противостоять внешним воздействиям, пытающимся вывести его из положения равновесия",
             optionThree = "Способность маломерного судна, сохранять положение равновесия",
@@ -341,7 +341,7 @@ object MMS {
         val mms_1_1_q26 = Question(
             id = "ММС 1.1.26",
             question = "Как называется способность судна изменять направление движения и скорость в целях обеспечения безопасности плавания?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Устойчивость на курсе",
@@ -356,7 +356,7 @@ object MMS {
         val mms_1_1_q27 = Question(
             id = "ММС 1.1.27",
             question = "Какими качествами судна определяется его маневренность?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Скорость",
             optionTwo = "Скорость; Управляемость; Ходкость",
             optionThree = "Управляемость",
@@ -369,7 +369,7 @@ object MMS {
         val mms_1_1_q28 = Question(
             id = "ММС 1.1.28",
             question = "Как называется способность судна преодолевать сопротивление окружающей среды и перемещаться с требуемой скоростью при наименьшей затрате мощности двигателя?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Устойчивость на курсе",
@@ -382,7 +382,7 @@ object MMS {
         val mms_1_1_q29 = Question(
             id = "ММС 1.1.29",
             question = "Как называется способность судна двигаться по заданной траектории, т.е. удерживать заданное направление движения или изменять его под действием управляющих устройств?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Инерция",
             optionTwo = "Маневренность",
             optionThree = "Управляемость",
@@ -395,7 +395,7 @@ object MMS {
         val mms_1_1_q30 = Question(
             id = "ММС 1.1.30",
             question = "Как называется способность судна сохранять направление прямолинейного движения?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Инерция",
             optionTwo = "Маневренность",
             optionThree = "Устойчивость на курсе",
@@ -408,7 +408,7 @@ object MMS {
         val mms_1_1_q31 = Question(
             id = "ММС 1.1.31",
             question = "Как называется способность судна изменять направление движения и описывать траекторию заданной кривизны?",
-            image = R.drawable.mms_1_1_5,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Ходкость",
@@ -450,7 +450,7 @@ object MMS {
         val mms_1_2_q1 = Question(
             id = "ММС 1.2.1",
             question = "На каком рисунке изображен простой балансирный руль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_15e98fb0,
             optionOne = "А",
             optionTwo = "Б",
             optionThree = "В",
@@ -463,7 +463,7 @@ object MMS {
         val mms_1_2_q2 = Question(
             id = "ММС 1.2.2",
             question = "Для какой цели предназначено леерное ограждение на судах?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_54a1e814,
             optionOne = "Для крепления швартовых концов",
             optionTwo = "Для обеспечения стока воды",
             optionThree = "Для предотвращения несанкционированного доступа",
@@ -476,7 +476,7 @@ object MMS {
         val mms_1_2_q3 = Question(
             id = "ММС 1.2.3",
             question = "С какой целью на маломерном судне устанавливаются блоки из пенопласта или другого материала, имеющего плотность менее единицы?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_8a1f1ec4,
             optionOne = "Для обеспечения аварийного запаса плавучести",
             optionTwo = "Для придания судну дополнительной остойчивости",
             optionThree = "Для увеличения грузоподъемности судна",
@@ -489,7 +489,7 @@ object MMS {
         val mms_1_2_q4 = Question(
             id = "ММС 1.2.4",
             question = "Какие меры должны быть предприняты во всех местах постоянного и временного пребывания людей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ac022860,
             optionOne = "Меры по предотвращению падения за борт",
             optionTwo = "Меры по предотвращению падения с высоты",
             optionThree = "Меры по предотвращению скольжения",
@@ -502,7 +502,7 @@ object MMS {
         val mms_1_2_q5 = Question(
             id = "ММС 1.2.5",
             question = "Как называется часть судна, указанная на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_12bc4359,
             optionOne = "Кабина",
             optionTwo = "Кокпит",
             optionThree = "Корпус",
@@ -515,7 +515,7 @@ object MMS {
         val mms_1_2_q6 = Question(
             id = "ММС 1.2.6",
             question = "Как называется часть судна, указанная на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e27e4cbc,
             optionOne = "Кабина",
             optionTwo = "Корпус",
             optionThree = "Навигационная палуба",
@@ -530,7 +530,7 @@ object MMS {
         val mms_1_2_q7 = Question(
             id = "ММС 1.2.7",
             question = "Как называется часть судна, предназначенная для фиксации подвесного мотора?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_65ca7ea6,
             optionOne = "Корма",
             optionTwo = "Кормовой борт",
             optionThree = "Кранец",
@@ -543,7 +543,7 @@ object MMS {
         val mms_1_2_q8 = Question(
             id = "ММС 1.2.8",
             question = "Как называется отверстие в палубе, предназначенное для удаления за борт воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_05362052,
             optionOne = "Ливневый слив",
             optionTwo = "Сифон",
             optionThree = "Сливное отверстие",
@@ -556,7 +556,7 @@ object MMS {
         val mms_1_2_q9 = Question(
             id = "ММС 1.2.9",
             question = "Какое устройство предназначено для управления маломерным судном и обеспечивающим его необходимую манёвренность?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_45d64686,
             optionOne = "Подруливающее устройство",
             optionTwo = "Пусковое устройство",
             optionThree = "Реверсивное устройство",
@@ -569,7 +569,7 @@ object MMS {
         val mms_1_2_q10 = Question(
             id = "ММС 1.2.10",
             question = "Укажите значение полной перекладки руля на каждый борт маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4056793a,
             optionOne = "35 градусов",
             optionTwo = "30 градусов",
             optionThree = "40 градусов",
@@ -583,7 +583,7 @@ object MMS {
         val mms_1_2_q11 = Question(
             id = "ММС 1.2.11",
             question = "Для чего НЕ предназначено швартовое устройство?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_22950566,
             optionOne = "Для обеспечения надежного закрепления у бортов других судов",
             optionTwo = "Для обеспечения надежного закрепления у причальных сооружений",
             optionThree = "Для обеспечения надежного крепления буксирного каната",
@@ -596,7 +596,7 @@ object MMS {
         val mms_1_2_q12 = Question(
             id = "ММС 1.2.12",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3ceb91c2,
             optionOne = "Киповая планка",
             optionTwo = "Клюз",
             optionThree = "Роульс",
@@ -609,7 +609,7 @@ object MMS {
         val mms_1_2_q13 = Question(
             id = "ММС 1.2.13",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a5689141,
             optionOne = "Клюз",
             optionTwo = "Кнехт",
             optionThree = "Роульс",
@@ -622,7 +622,7 @@ object MMS {
         val mms_1_2_q14 = Question(
             id = "ММС 1.2.14",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c1867497,
             optionOne = "Киповая планка",
             optionTwo = "Кнехт",
             optionThree = "Роульс",
@@ -635,7 +635,7 @@ object MMS {
         val mms_1_2_q15 = Question(
             id = "ММС 1.2.15",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_fc99b239,
             optionOne = "Битенг",
             optionTwo = "Киповая планка",
             optionThree = "Клюз",
@@ -648,7 +648,7 @@ object MMS {
         val mms_1_2_q16 = Question(
             id = "ММС 1.2.16",
             question = "Буксировку каких из перечисленных маломерных судов должно обеспечивать буксирное устройство?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ff9aae09,
             optionOne = "Любых из перечисленных",
             optionTwo = "Маломерных судов большего водоизмещения",
             optionThree = "Маломерных судов, аналогичных ему по водоизмещению или большего по тоннажу",
@@ -661,7 +661,7 @@ object MMS {
         val mms_1_2_q17 = Question(
             id = "ММС 1.2.17",
             question = "Что из перечисленного предназначено для минимизации риска падения человека за борт?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Ограждения",
             optionTwo = "Ограждения, поручни, сходные трапы",
             optionThree = "Поручни",
@@ -674,7 +674,7 @@ object MMS {
         val mms_1_2_q18 = Question(
             id = "ММС 1.2.18",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_fg321rfdsghb,
             optionOne = "Леерное",
             optionTwo = "Поручни",
             optionThree = "Сходной трап",
@@ -687,7 +687,7 @@ object MMS {
         val mms_1_2_q19 = Question(
             id = "ММС 1.2.19",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b59b017a,
             optionOne = "Леер",
             optionTwo = "Поручни",
             optionThree = "Сходной трап",
@@ -700,7 +700,7 @@ object MMS {
         val mms_1_2_q20 = Question(
             id = "ММС 1.2.20",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_8f2bca55,
             optionOne = "Леер",
             optionTwo = "Поручни",
             optionThree = "Сходной трап",
@@ -713,7 +713,7 @@ object MMS {
         val mms_1_2_q21 = Question(
             id = "ММС 1.2.21",
             question = "Какое устройство изображено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_25e20d3b,
             optionOne = "Леер",
             optionTwo = "Поручни",
             optionThree = "Трап",
@@ -726,7 +726,7 @@ object MMS {
         val mms_1_2_q22 = Question(
             id = "ММС 1.2.22",
             question = "Конструкция и расположение пусковых и реверсивных устройств должны обеспечивать возможность пуска и реверсирования каждого механизма …",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_53ed54d6,
             optionOne = "Двумя судоводителями",
             optionTwo = "Двумя судоводителями и механиком",
             optionThree = "Одним судоводителем",
@@ -739,7 +739,7 @@ object MMS {
         val mms_1_2_q23 = Question(
             id = "ММС 1.2.23",
             question = "Какое условие необходимо выполнить для исключения образования взрывоопасной смеси в топливных танках?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_91366564,
             optionOne = "Любое из перечисленных",
             optionTwo = "Обеспечить надежную систему вентиляции",
             optionThree = "Перекрыть доступ атмосферного воздуха",
@@ -752,7 +752,7 @@ object MMS {
         val mms_1_2_q24 = Question(
             id = "ММС 1.2.24",
             question = "Как называется судовая система, предназначенная для периодического удаления воды из корпуса судна, а также для осушения отсеков?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Водоотливная система",
             optionTwo = "Гидросистема",
             optionThree = "Осушительная система",
@@ -765,7 +765,7 @@ object MMS {
         val mms_1_2_q25 = Question(
             id = "ММС 1.2.25",
             question = "Что должна включать осушительная система на палубных маломерных судах длиной более 6 м, осуществляющих плавание на расстоянии не более 20 миль от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_43d273f8,
             optionOne = "Два насоса с механическим приводом",
             optionTwo = "Два насоса с ручным приводом",
             optionThree = "Один насос с механическим приводом, два насоса с ручным приводом",
@@ -778,7 +778,7 @@ object MMS {
         val mms_1_2_q26 = Question(
             id = "ММС 1.2.26",
             question = "Что должна включать осушительная система на палубных маломерных судах длиной более 6 м, осуществляющих плавание на расстоянии не более 12 миль от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b40b1c11,
             optionOne = "Два насоса с механическим приводом",
             optionTwo = "Два насоса с ручным приводом",
             optionThree = "Один насос с механическим приводом, два насоса с ручным приводом",
@@ -791,7 +791,7 @@ object MMS {
         val mms_1_2_q27 = Question(
             id = "ММС 1.2.27",
             question = "Что должна включать осушительная система на палубных маломерных судах длиной более 6 м, осуществляющих плавание на расстоянии не более 6 миль от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_cfc390db,
             optionOne = "Два насоса с механическим приводом",
             optionTwo = "Один насос с механическим приводом, два насоса с ручным приводом",
             optionThree = "Один насос с механическим приводом, один насос с ручным приводом",
@@ -804,7 +804,7 @@ object MMS {
         val mms_1_2_q28 = Question(
             id = "ММС 1.2.28",
             question = "Какая вода, как правило, используется в фановой системе маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Забортная",
             optionTwo = "Из осушительной системы",
             optionThree = "Из системы водоснабжения",
@@ -817,7 +817,7 @@ object MMS {
         val mms_1_2_q29 = Question(
             id = "ММС 1.2.29",
             question = "Для чего предназначена фановая система?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Для подготовки питьевой воды",
             optionTwo = "Для сбора и удаления воды из корпуса судна",
             optionThree = "Для сбора и удаления с маломерного судна сточных и фекальных вод",
@@ -830,7 +830,7 @@ object MMS {
         val mms_1_2_q30 = Question(
             id = "ММС 1.2.30",
             question = "Для чего предназначена система водоснабжения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Обеспечения охлаждения двигателя",
             optionTwo = "Обеспечения потребности допустимого количества людей на борту в питьевой воде",
             optionThree = "Обеспечения санитарно-бытовых помещений",
@@ -847,7 +847,7 @@ object MMS {
         val mms_1_2_q31 = Question(
             id = "ММС 1.2.31",
             question = "Каким образом должен подаваться огнегаситель к двигателю на судне, оборудованном противопожарной системой?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Без открытия или демонтажа защитных кожухов двигателя",
             optionTwo = "После демонтажа защитных кожухов двигателя",
             optionThree = "После открытия защитных кожухов двигателя",
@@ -860,7 +860,7 @@ object MMS {
         val mms_1_2_q32 = Question(
             id = "ММС 1.2.32",
             question = "Что необходимо выполнить для предупреждения аккумуляции газов, выделяемых аккумуляторными батареями?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Долить электролит в батарею",
             optionTwo = "Обеспечить их вентиляцию",
             optionThree = "Открутить пробки на батареях",
@@ -873,7 +873,7 @@ object MMS {
         val mms_1_2_q33 = Question(
             id = "ММС 1.2.33",
             question = "Разрешается ли держать открытыми защитные кожухи работающих стационарных двигателей на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Да, в случае перегрева двигателя",
             optionTwo = "Да, для внешнего осмотра двигателя",
             optionThree = "Да, для установления причин неисправности двигателя",
@@ -886,7 +886,7 @@ object MMS {
         val mms_1_2_q34 = Question(
             id = "ММС 1.2.34",
             question = "Какие источники электрической энергии должны быть предусмотрены на судне для энергопитания радиооборудования?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Основной",
             optionTwo = "Основной и аккумуляторные батареи",
             optionThree = "Основной и альтернативный (солнечные батареи)",
@@ -900,7 +900,7 @@ object MMS {
         val mms_1_2_q35 = Question(
             id = "ММС 1.2.35",
             question = "Для чего предназначено навигационное оборудование, устанавливаемое на маломерных судах?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Для непрерывного обеспечения судоводителя достоверной информацией о местоположении, курсе и скорости судна, информацией, позволяющей безопасно управлять маломерным судом",
             optionTwo = "Для обеспечения судоводителя метеорологической информацией",
             optionThree = "Для приема навигационных предупреждений",
@@ -913,7 +913,7 @@ object MMS {
         val mms_1_2_q36 = Question(
             id = "ММС 1.2.36",
             question = "Какое судовое радиоустройство должно быть выполнено в водозащищенном исполнении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "УКВ радиостанция спасательных средств, Стационарная УКВ радиостанция",
             optionTwo = "Стационарная УКВ радиостанция",
             optionThree = "УКВ носимая радиостанция",
@@ -926,7 +926,7 @@ object MMS {
         val mms_1_2_q37 = Question(
             id = "ММС 1.2.37",
             question = "Где можно найти схему и инструкцию по борьбе за живучесть Вашего маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В Интернете",
             optionTwo = "В комплекте эксплуатационной документации",
             optionThree = "В маркировочной табличке",
@@ -939,7 +939,7 @@ object MMS {
         val mms_1_2_q38 = Question(
             id = "ММС 1.2.38",
             question = "Где можно найти схему топливной системы Вашего маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В ГИМС",
             optionTwo = "В Интернете",
             optionThree = "В комплекте эксплуатационной документации",
@@ -952,7 +952,7 @@ object MMS {
         val mms_1_2_q39 = Question(
             id = "ММС 1.2.39",
             question = "Установка каких средств может обеспечить беспрепятственный обзор в направлении кормы маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Веб-камера",
             optionTwo = "Видеокамера",
             optionThree = "Зеркала",
@@ -965,7 +965,7 @@ object MMS {
         val mms_1_2_q40 = Question(
             id = "ММС 1.2.40",
             question = "Чем должен быть обеспечен беспрепятственный обзор из окон рулевой рубки в темное время суток при подходе к берегу?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_961a35c4,
             optionOne = "Осветительными средствами (прожекторами)",
             optionTwo = "Палубным освещением",
             optionThree = "Переносным светильником",
@@ -978,7 +978,7 @@ object MMS {
         val mms_1_2_q41 = Question(
             id = "ММС 1.2.41",
             question = "При выполнении какого условия разрешается плавание маломерного судна в темное время суток?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "При включенном палубном освещении",
             optionTwo = "При включенном якорном огне",
             optionThree = "При включенных отличительных ходовых огнях",
@@ -991,7 +991,7 @@ object MMS {
         val mms_1_2_q42 = Question(
             id = "ММС 1.2.42",
             question = "В каком из перечисленных случаев запрещается эксплуатация маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Пробоина обшивки корпуса на корме выше ватерлинии",
             optionTwo = "Пробоина обшивки корпуса на корме выше ватерлинии; Пробоина обшивки корпуса на носу выше ватерлинии; Пробоина обшивки корпуса на уровне ватерлинии",
             optionThree = "Пробоина обшивки корпуса на носу выше ватерлинии",
@@ -1004,7 +1004,7 @@ object MMS {
         val mms_1_2_q43 = Question(
             id = "ММС 1.2.43",
             question = "Какие меры необходимо предпринять в случае выявления в плавании следов масла и топлива в районе машинного помещения, при невозможности отключения двигателя в штормовых условиях?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Вывести людей на палубу в спасательных жилетах",
             optionTwo = "Вывести людей на палубу в спасательных жилетах, подготовить спасательные средства, проверить работоспособность радиостанции",
             optionThree = "Подготовить спасательные средства",
@@ -1017,7 +1017,7 @@ object MMS {
         val mms_1_2_q44 = Question(
             id = "ММС 1.2.44",
             question = "Какое действие необходимо выполнить перед пуском двигателя, расположенного в закрытом машинном помещении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Любое из перечисленных",
             optionTwo = "Максимально заполнить топливный танк",
             optionThree = "Перекрыть доступ атмосферного воздуха",
@@ -1030,7 +1030,7 @@ object MMS {
         val mms_1_2_q45 = Question(
             id = "ММС 1.2.45",
             question = "Превышение каких параметров, установленных изготовителем, не допускается при эксплуатации маломерных судов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Максимальной грузоподъемности и максимального количества людей на борту",
             optionTwo = "Максимально допустимой мощности двигателя",
             optionThree = "Категории сложности района плавания",
@@ -1043,7 +1043,7 @@ object MMS {
         val mms_1_2_q46 = Question(
             id = "ММС 1.2.46",
             question = "В чем из перечисленного необходимо убедиться с целью обеспечения безопасности плавания перед его началом?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Запасы питьевой воды соответствуют количеству людей на борту",
             optionTwo = "Запасы провизии соответствуют количеству людей на борту",
             optionThree = "Пассажиры не страдают «морской болезнью»",
@@ -1056,7 +1056,7 @@ object MMS {
         val mms_1_2_q47 = Question(
             id = "ММС 1.2.47",
             question = "В чем из перечисленного необходимо убедиться с целью обеспечения безопасности плавания перед его началом?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Все пассажиры ознакомлены с маршрутом плавания",
             optionTwo = "Все пассажиры ознакомлены с основами навигации",
             optionThree = "Все пассажиры ознакомлены с правилами поведения на маломерном судне",
@@ -1069,7 +1069,7 @@ object MMS {
         val mms_1_2_q48 = Question(
             id = "ММС 1.2.48",
             question = "В чем из перечисленного необходимо убедиться с целью обеспечения безопасности плавания перед его началом?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "В топливном баке имеется достаточное количество топлива",
             optionTwo = "На судне имеется запас машинного масла",
             optionThree = "На судне имеется фильтр питьевой воды",
@@ -1082,7 +1082,7 @@ object MMS {
         val mms_1_2_q49 = Question(
             id = "ММС 1.2.49",
             question = "Что запрещается при организации на маломерных судах погрузки и выгрузки грузов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_09fb1eb6,
             optionOne = "Нарушать установленные нормы максимальной нагрузки",
             optionTwo = "Производить погрузку (выгрузку) без спасательных жилетов",
             optionThree = "Производить погрузку (выгрузку) без средств индивидуальной защиты",
@@ -1095,7 +1095,7 @@ object MMS {
         val mms_1_2_q50 = Question(
             id = "ММС 1.2.50",
             question = "Что запрещается при организации на маломерных судах посадки и высадки пассажиров?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Нарушать установленные нормы максимального количества людей на борту",
             optionTwo = "Производить посадку (высадку) без спасательных жилетов",
             optionThree = "Производить посадку (высадку) без средств индивидуальной защиты",
@@ -1108,7 +1108,7 @@ object MMS {
         val mms_1_2_q51 = Question(
             id = "ММС 1.2.51",
             question = "В каком случае запрещается эксплуатация двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Наличие утечек топлива, вибрации, отсутствия или неисправности глушителя",
             optionTwo = "Наличие утечек топлива, не исправность включения реверс-редуктора, не исправность дистанционного управлением двигателем",
             optionThree = "Не обеспечение надежного включения (выключения) реверс-редуктора",
@@ -1121,7 +1121,7 @@ object MMS {
         val mms_1_2_q52 = Question(
             id = "ММС 1.2.52",
             question = "В каком из перечисленных случаев рулевое устройство должно быть осмотрено и проверено в действии?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Во всех перечисленных случаях",
             optionTwo = "Перед входом маломерного судна в канал или в шлюз",
             optionThree = "Перед выходом маломерного судна из канала или шлюза",
@@ -1134,7 +1134,7 @@ object MMS {
         val mms_1_2_q53 = Question(
             id = "ММС 1.2.53",
             question = "В каком случае рулевое устройство должно быть осмотрено и проверено в действии?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Во всех перечисленных случаях",
             optionTwo = "Перед выходом маломерного судна из канала или шлюза",
             optionThree = "Перед каждым выходом маломерного судна в плавание",
@@ -1147,7 +1147,7 @@ object MMS {
         val mms_1_2_q54 = Question(
             id = "ММС 1.2.54",
             question = "Неисправность какого устройства НЕ приводит к запрещению эксплуатации маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_95ad4a5e,
             optionOne = "Буксирного",
             optionTwo = "Рулевого",
             optionThree = "Швартового",
@@ -1160,7 +1160,7 @@ object MMS {
         val mms_1_2_q55 = Question(
             id = "ММС 1.2.55",
             question = "Какая из перечисленных неисправностей НЕ является основанием для запрещения эксплуатации маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Неисправность якорной лебедки",
             optionTwo = "Повреждение буксирного кронштейна",
             optionThree = "Сломан баллер руля",
@@ -1173,7 +1173,7 @@ object MMS {
         val mms_1_2_q56 = Question(
             id = "ММС 1.2.56",
             question = "Что необходимо сделать собственнику маломерного судна в случае внесения изменений в конструкцию корпуса или двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Ничего, если по мнению собственника маломерного судна не снижается установленный уровень безопасности",
             optionTwo = "Предоставить информацию строителю маломерного судна для внесения изменений в эксплуатационную документацию",
             optionThree = "Представить в ГИМС заявление о проведении классификации",
@@ -1187,7 +1187,7 @@ object MMS {
         val mms_1_2_q57 = Question(
             id = "ММС 1.2.57",
             question = "На кого возлагается ответственность за утилизацию маломерных судов, выведенных из эксплуатации?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3571f914,
             optionOne = "На государственного инспектора по маломерным судам ГИМС МЧС России",
             optionTwo = "На руководителя базы для стоянки маломерных судов",
             optionThree = "На собственника",
@@ -1200,7 +1200,7 @@ object MMS {
         val mms_1_2_q58 = Question(
             id = "ММС 1.2.58",
             question = "Как называется способность судна изменять направление движения и скорость в целях обеспечения безопасности плавания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Устойчивость на курсе",
@@ -1215,7 +1215,7 @@ object MMS {
         val mms_1_2_q59 = Question(
             id = "ММС 1.2.59",
             question = "Какими качествами судна определяется его маневренность?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Скорость",
             optionTwo = "Скорость; Управляемость; Ходкость",
             optionThree = "Управляемость",
@@ -1228,7 +1228,7 @@ object MMS {
         val mms_1_2_q60 = Question(
             id = "ММС 1.2.60",
             question = "Как называется способность судна преодолевать сопротивление окружающей среды и перемещаться с требуемой скоростью при наименьшей затрате мощности двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Устойчивость на курсе",
@@ -1241,7 +1241,7 @@ object MMS {
         val mms_1_2_q61 = Question(
             id = "ММС 1.2.61",
             question = "Как называется способность судна двигаться по заданной траектории, т.е. удерживать заданное направление движения или изменять его под действием управляющих устройств?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Инерция",
             optionTwo = "Маневренность",
             optionThree = "Управляемость",
@@ -1254,7 +1254,7 @@ object MMS {
         val mms_1_2_q62 = Question(
             id = "ММС 1.2.62",
             question = "Как называется способность судна сохранять направление прямолинейного движения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Инерция",
             optionTwo = "Маневренность",
             optionThree = "Устойчивость на курсе",
@@ -1267,7 +1267,7 @@ object MMS {
         val mms_1_2_q63 = Question(
             id = "ММС 1.2.63",
             question = "Как называется способность судна изменять направление движения и описывать траекторию заданной кривизны?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Поворотливость",
             optionThree = "Ходкость",
@@ -1282,7 +1282,7 @@ object MMS {
         val mms_1_2_q64 = Question(
             id = "ММС 1.2.64",
             question = "Чем должны быть оборудованы трапы маломерного судна для обеспечения безопасного перемещения людей в неблагоприятных гидрометеорологических условиях?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_76904459,
             optionOne = "Леерами",
             optionTwo = "Перилами",
             optionThree = "Поручнями",
@@ -1295,7 +1295,7 @@ object MMS {
         val mms_1_2_q65 = Question(
             id = "ММС 1.2.65",
             question = "Какой должна быть поверхность рабочей палубы и комингсов на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Гладкой",
             optionTwo = "Нескользящей",
             optionThree = "Ребристой",
@@ -1308,7 +1308,7 @@ object MMS {
         val mms_1_2_q66 = Question(
             id = "ММС 1.2.66",
             question = "В каком исполнении должны быть выполнены светильники, штепсельные разъемы и выключатели, расположенные на открытой палубе маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Антивандальном",
             optionTwo = "Бытовом",
             optionThree = "Взрывозащищенном",
@@ -1321,7 +1321,7 @@ object MMS {
         val mms_1_2_q67 = Question(
             id = "ММС 1.2.67",
             question = "Какие средства связи должны быть установлены на маломерном судне, осуществляющем плавание во внутренних морских водах и территориальном море Российской Федерации?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "ПВ радиостанция",
             optionTwo = "ПВ/КВ радиостанция",
             optionThree = "Спутниковый радиотелефон",
@@ -1334,7 +1334,7 @@ object MMS {
         val mms_1_2_q68 = Question(
             id = "ММС 1.2.68",
             question = "Какие средства связи должны быть установлены на маломерном судне, осуществляющем плавание в морских прибрежных водах до 20 миль от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b40b1c11,
             optionOne = "ПВ радиостанция",
             optionTwo = "ПВ/КВ радиостанция",
             optionThree = "Спутниковый радиотелефон",
@@ -1347,7 +1347,7 @@ object MMS {
         val mms_1_2_q69 = Question(
             id = "ММС 1.2.69",
             question = "Какое навигационное оборудование должно быть установлено на маломерном судне при эксплуатации в морских прибрежных водах до 20 миль от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b40b1c11,
             optionOne = "Лаг",
             optionTwo = "Магнитный компас",
             optionThree = "Радиолокационная станция",
@@ -1360,7 +1360,7 @@ object MMS {
         val mms_1_2_q70 = Question(
             id = "ММС 1.2.70",
             question = "Какое навигационное оборудование должно быть установлено на маломерном судне, предназначенном для эксплуатации на внутренних водных путях в условиях ограниченной видимости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b40b1c11,
             optionOne = "Лаг",
             optionTwo = "Пеленгатор",
             optionThree = "Радиолокационная станция",
@@ -1373,7 +1373,7 @@ object MMS {
         val mms_1_2_q71 = Question(
             id = "ММС 1.2.71",
             question = "Как называется устройство, в состав которого входят следующие элементы: носовой роульс, стопор, цепь, лебедка, цепной ящик?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Буксирное",
             optionTwo = "Леерное",
             optionThree = "Швартовое",
@@ -1386,7 +1386,7 @@ object MMS {
         val mms_1_2_q72 = Question(
             id = "ММС 1.2.72",
             question = "Как называется элемент якорного устройства, обозначенный на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_91db76d7,
             optionOne = "Роульс",
             optionTwo = "Стопор цепи",
             optionThree = "Якорная лебедка",
@@ -1399,7 +1399,7 @@ object MMS {
         val mms_1_2_q73 = Question(
             id = "ММС 1.2.73",
             question = "Как называется элемент якорного устройства, обозначенного на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7e765043,
             optionOne = "Роульс",
             optionTwo = "Стопор цепи",
             optionThree = "Шпиль",
@@ -1412,7 +1412,7 @@ object MMS {
         val mms_1_2_q74 = Question(
             id = "ММС 1.2.74",
             question = "Как называется прибор, обозначенный на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e9c536f7,
             optionOne = "Бортовой огонь",
             optionTwo = "Кормовой огонь",
             optionThree = "Световой сигнал",
@@ -1425,7 +1425,7 @@ object MMS {
         val mms_1_2_q75 = Question(
             id = "ММС 1.2.75",
             question = "В состав какого устройства входит оборудование, обозначенное на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_97dea318,
             optionOne = "Буксирного",
             optionTwo = "Леерное",
             optionThree = "Швартовного",
@@ -1438,7 +1438,7 @@ object MMS {
         val mms_1_2_q76 = Question(
             id = "ММС 1.2.76",
             question = "Что обозначено на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_97dea318,
             optionOne = "Битенг",
             optionTwo = "Лебедка",
             optionThree = "Роульс",
@@ -1451,7 +1451,7 @@ object MMS {
         val mms_1_2_q77 = Question(
             id = "ММС 1.2.77",
             question = "В состав какого устройства входит элемент, обозначенный на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_82135c35,
             optionOne = "Буксирное",
             optionTwo = "Рулевое",
             optionThree = "Швартовое",
@@ -1464,7 +1464,7 @@ object MMS {
         val mms_1_2_q78 = Question(
             id = "ММС 1.2.78",
             question = "В состав какого устройства входит оборудование, обозначенное на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_53c52648,
             optionOne = "Буксирное",
             optionTwo = "Рулевое",
             optionThree = "Швартовое",
@@ -1477,7 +1477,7 @@ object MMS {
         val mms_1_2_q79 = Question(
             id = "ММС 1.2.79",
             question = "Как называется оборудование, обозначенное на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_0a6e15de,
             optionOne = "Аккумулятор",
             optionTwo = "Двигатель",
             optionThree = "Опреснитель",
@@ -1490,7 +1490,7 @@ object MMS {
         val mms_1_2_q80 = Question(
             id = "ММС 1.2.80",
             question = "Как называется оборудование, обозначенное на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bd642e53,
             optionOne = "Аноды для наружной защиты от коррозии",
             optionTwo = "Антенна эхолота",
             optionThree = "Перо руля",
@@ -1503,7 +1503,7 @@ object MMS {
         val mms_1_2_q81 = Question(
             id = "ММС 1.2.81",
             question = "Какой цифрой на рисунке обозначен ходовой мостик?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_61b3098a,
             optionOne = "1",
             optionTwo = "2",
             optionThree = "3",
@@ -1516,7 +1516,7 @@ object MMS {
         val mms_1_2_q82 = Question(
             id = "ММС 1.2.82",
             question = "Какой цифрой на рисунке обозначена корма?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_61b3098a,
             optionOne = "1",
             optionTwo = "2",
             optionThree = "3",
@@ -1529,7 +1529,7 @@ object MMS {
         val mms_1_2_q83 = Question(
             id = "ММС 1.2.83",
             question = "Какой цифрой на рисунке обозначена ходовая рубка?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_61b3098a,
             optionOne = "1",
             optionTwo = "2",
             optionThree = "3",
@@ -1542,7 +1542,7 @@ object MMS {
         val mms_1_2_q84 = Question(
             id = "ММС 1.2.84",
             question = "Как называется продольная бортовая связь (балка)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_121060fc,
             optionOne = "Бортовой бимс",
             optionTwo = "Бортовой карлингс",
             optionThree = "Бортовой киль",
@@ -1555,7 +1555,7 @@ object MMS {
         val mms_1_2_q85 = Question(
             id = "ММС 1.2.85",
             question = "Как называется продольная подпалубная связь (балка)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4fdded45,
             optionOne = "Бимс",
             optionTwo = "Карлингс",
             optionThree = "Комингс",
@@ -1565,10 +1565,10 @@ object MMS {
         )
         questionListMMS_1_2.add(mms_1_2_q85)
 
-        val mms_1_2_q = Question(
-            id = "ММС 1.2.",
+        val mms_1_2_q86 = Question(
+            id = "ММС 1.2.86",
             question = "Как называется расстояние между соседними шпангоутами?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_540b3862,
             optionOne = "Бракета",
             optionTwo = "Буртик",
             optionThree = "Контрфорс",
@@ -1576,12 +1576,12 @@ object MMS {
             correctAnswer = "Шпация",
             comment = "Шпация - расстояние между соседними балками набора корпуса судна. Поперечная шпация - расстояние между основными шпангоутами, продольная - между продольными балками."
         )
-        questionListMMS_1_2.add(mms_1_2_q)
+        questionListMMS_1_2.add(mms_1_2_q86)
 
         val mms_1_2_q87 = Question(
             id = "ММС 1.2.87",
             question = "Как называется продольная связь (балка) днищевого набора?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_14d3c407,
             optionOne = "Бимс",
             optionTwo = "Карлингс",
             optionThree = "Стрингер",
@@ -1594,7 +1594,7 @@ object MMS {
         val mms_1_2_q88 = Question(
             id = "ММС 1.2.88",
             question = "Как называется вертикальная связь (балка) бортового набора судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d3492bac,
             optionOne = "Бимс",
             optionTwo = "Пиллерс",
             optionThree = "Флор",
@@ -1607,7 +1607,7 @@ object MMS {
         val mms_1_2_q89 = Question(
             id = "ММС 1.2.89",
             question = "Как называется носовая балка, являющаяся продолжением киля?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7a4fe297,
             optionOne = "Флор",
             optionTwo = "Форштевень",
             optionThree = "Штаг",
@@ -1620,7 +1620,7 @@ object MMS {
         val mms_1_2_q90 = Question(
             id = "ММС 1.2.90",
             question = "Как называется поперечная связь (балка) подпалубного набора, проходящая от борта до борта?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ffb6ac52,
             optionOne = "Бимс",
             optionTwo = "Карлингс",
             optionThree = "Стрингер",
@@ -1633,7 +1633,7 @@ object MMS {
         val mms_1_2_q91 = Question(
             id = "ММС 1.2.91",
             question = "Как называется пластина треугольной формы для соединения различных элементов набора корпуса?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_38538b7d,
             optionOne = "Бракета",
             optionTwo = "Карлингс",
             optionThree = "Кница",
@@ -1646,7 +1646,7 @@ object MMS {
         val mms_1_2_q92 = Question(
             id = "ММС 1.2.92",
             question = "Как на маломерном судне называется открытое помещение для размещения людей и багажа?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_10721bbf,
             optionOne = "Кокпит",
             optionTwo = "Рубка",
             optionThree = "Форпик",
@@ -1685,7 +1685,7 @@ object MMS {
         val mms_1_3_q1 = Question(
             id = "ММС 1.3.1",
             question = "Кто несет ответственность за поддержание маломерного судна в исправном техническом состоянии?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Страховщик",
             optionTwo = "Судовладелец",
             optionThree = "Судоводитель",
@@ -1702,7 +1702,7 @@ object MMS {
         val mms_1_3_q2 = Question(
             id = "ММС 1.3.2",
             question = "Какими документами устанавливаются нормы, правила и процедуры технического обслуживания судовых двигателей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Инструкциями завода-изготовителя",
             optionTwo = "Руководствами классификационного общества",
             optionThree = "Стандартами ISO",
@@ -1715,7 +1715,7 @@ object MMS {
         val mms_1_3_q3 = Question(
             id = "ММС 1.3.3",
             question = "Что является основной целью технического обслуживания и ремонта маломерных судов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Выполнение рекомендаций компании - строителя судна",
             optionTwo = "Выполнение рекомендаций компаний - производителей оборудования",
             optionThree = "Обеспечение комфорта экипажа и пассажиров",
@@ -1728,7 +1728,7 @@ object MMS {
         val mms_1_3_q4 = Question(
             id = "ММС 1.3.4",
             question = "На каком этапе рекомендуется отключать вентиляцию двигателя в закрытом машинном помещении при выходе в плавание на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "После набора крейсерской скорости",
             optionTwo = "После отхода от причала",
             optionThree = "После прогрева двигателя",
@@ -1742,7 +1742,7 @@ object MMS {
         val mms_1_3_q5 = Question(
             id = "ММС 1.3.5",
             question = "Что необходимо выполнить перед запуском двигателя, размещенного в закрытом машинном помещении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Включить отличительные ходовые огни",
             optionTwo = "Предупредить о запуске двигателя экипаж и пассажиров",
             optionThree = "Произвести вентиляцию машинного помещения",
@@ -1755,7 +1755,7 @@ object MMS {
         val mms_1_3_q6 = Question(
             id = "ММС 1.3.6",
             question = "Что необходимо выполнить перед проведением ремонта и обслуживания электропроводки в машинном помещении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Остановить двигатель, провентилировать машинное помещение и отсоединить аккумуляторные батареи",
             optionTwo = "Надеть резиновые перчатки",
             optionThree = "Постелить на палубу резиновый коврик",
@@ -1768,7 +1768,7 @@ object MMS {
         val mms_1_3_q7 = Question(
             id = "ММС 1.3.7",
             question = "В какой последовательности рекомендуется подсоединять шнур берегового питания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_23932251,
             optionOne = "К береговому и судовому разъемам одновременно",
             optionTwo = "Последовательность не имеет значения",
             optionThree = "Сначала к береговому разъему, затем к судовому",
@@ -1781,7 +1781,7 @@ object MMS {
         val mms_1_3_q8 = Question(
             id = "ММС 1.3.8",
             question = "Как долго можно нажимать на кнопку \"Пуск\" для запуска двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "30 сек",
             optionTwo = "5 сек",
             optionThree = "60 сек",
@@ -1794,7 +1794,7 @@ object MMS {
         val mms_1_3_q9 = Question(
             id = "ММС 1.3.9",
             question = "Как следует выполнять работы по уходу за двигателем?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Если судно поднято из воды",
             optionTwo = "На двигателе, работающем на холостом ходу",
             optionThree = "На демонтированном двигателе",
@@ -1807,7 +1807,7 @@ object MMS {
         val mms_1_3_q10 = Question(
             id = "ММС 1.3.10",
             question = "Как часто необходимо проводить осмотр двигателя и моторного отсека?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Перед каждым запуском двигателя",
             optionTwo = "Перед каждым запуском двигателя и после его остановки",
             optionThree = "После остановки, когда двигатель уже отключен",
@@ -1822,7 +1822,7 @@ object MMS {
         val mms_1_3_q11 = Question(
             id = "ММС 1.3.11",
             question = "Как часто рекомендуется проверять уровень масла и охлаждающей жидкости двигателя на судне в эксплуатации?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Каждые 100 часов или раз в год",
             optionTwo = "Каждые 50 часов",
             optionThree = "Каждый раз перед запуском двигателя",
@@ -1838,7 +1838,7 @@ object MMS {
         val mms_1_3_q12 = Question(
             id = "ММС 1.3.12",
             question = "Какие действия необходимо выполнить, если при осмотре двигателя обнаружено протекание масла, топлива или охладителя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Запустить двигатель и выявить источник протечки",
             optionTwo = "Запустить двигатель и перегнать судно на станцию технического обслуживания",
             optionThree = "Не предпринимать никаких действий",
@@ -1851,7 +1851,7 @@ object MMS {
         val mms_1_3_q13 = Question(
             id = "ММС 1.3.13",
             question = "Когда необходимо удалить обнаруженное при осмотре скопление (подтеки) масла и топлива на двигателе или в машинном отсеке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В ходе очередного технического обслуживания",
             optionTwo = "Перед запуском двигателя",
             optionThree = "После устранения причины протекания",
@@ -1864,7 +1864,7 @@ object MMS {
         val mms_1_3_q14 = Question(
             id = "ММС 1.3.14",
             question = "Когда необходимо производить сезонное обслуживание двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Перед началом навигации",
             optionTwo = "Перед началом и после окончания навигации",
             optionThree = "По окончании навигационного сезона",
@@ -1879,7 +1879,7 @@ object MMS {
         val mms_1_3_q15 = Question(
             id = "ММС 1.3.15",
             question = "Как часто рекомендуется производить проверку аккумуляторной батареи?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Каждые 100 часов или раз в год",
             optionTwo = "Каждые 50 часов",
             optionThree = "Каждый раз перед запуском двигателя",
@@ -1893,7 +1893,7 @@ object MMS {
         val mms_1_3_q16 = Question(
             id = "ММС 1.3.16",
             question = "Что рекомендуется сделать с системой охлаждения двигателя забортной водой для предотвращения ее повреждения от замерзания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Залить соленой водой",
             optionTwo = "Ничего не делать",
             optionThree = "Осушить",
@@ -1906,7 +1906,7 @@ object MMS {
         val mms_1_3_q17 = Question(
             id = "ММС 1.3.17",
             question = "Укажите свойство воды, используемой в качестве охлаждающей жидкости в летний период, влияющее на ресурс двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Вода испаряется",
             optionTwo = "Вода не обеспечивает защиту двигателя от коррозии",
             optionThree = "Вода не обеспечивает смазку компонентов охлаждающей системы",
@@ -1919,7 +1919,7 @@ object MMS {
         val mms_1_3_q18 = Question(
             id = "ММС 1.3.18",
             question = "Какова рекомендованная периодичность замены масляного фильтра?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "При каждой замене масла",
             optionTwo = "Раз в 100 часов",
             optionThree = "Раз в 50 часов",
@@ -1934,7 +1934,7 @@ object MMS {
         val mms_1_3_q19 = Question(
             id = "ММС 1.3.19",
             question = "К чему может привести не своевременная очистка фильтра забортной воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "К коррозии двигателя",
             optionTwo = "К перегреву двигателя",
             optionThree = "К снижению мощности двигателя",
@@ -1947,7 +1947,7 @@ object MMS {
         val mms_1_3_q20 = Question(
             id = "ММС 1.3.20",
             question = "Что необходимо выполнить в случае срабатывания индикатора о наличии большого количества воды в топливном фильтре предварительной очистки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Заменить фильтр",
             optionTwo = "Обратиться на станцию технического обслуживания",
             optionThree = "Осушить фильтр",
@@ -1960,7 +1960,7 @@ object MMS {
         val mms_1_3_q21 = Question(
             id = "ММС 1.3.21",
             question = "Отметьте правильную последовательность подключения проводов к клеммам аккумуляторной батареи.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Сначала «+», затем «-»",
             optionTwo = "Сначала «-», затем «+»",
             optionThree = "«+» и «-» одновременно",
@@ -1973,7 +1973,7 @@ object MMS {
         val mms_1_3_q22 = Question(
             id = "ММС 1.3.22",
             question = "Отметьте правильную последовательность отключения зарядного устройства при снятии с батареи зарядных соединений.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Выключить зарядное устройство до снятия с батареи зарядных соединений",
             optionTwo = "Выключить зарядное устройство после снятия с батареи зарядных соединений",
             optionThree = "Одновременно выключить зарядное устройство и снять с батареи зарядные соединения",
@@ -1986,7 +1986,7 @@ object MMS {
         val mms_1_3_q23 = Question(
             id = "ММС 1.3.23",
             question = "В какой из перечисленных моментов рекомендуется произвести замену масла двигателя и масляного фильтра?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Перед подъемом судна из воды для зимнего/межсезонного хранения",
             optionTwo = "Перед спуском судна на воду после зимнего/межсезонного хранения",
             optionThree = "После подъема судна из воды для зимнего/межсезонного хранения",
@@ -1999,7 +1999,7 @@ object MMS {
         val mms_1_3_q24 = Question(
             id = "ММС 1.3.24",
             question = "В каком состоянии необходимо хранить аккумуляторные батареи?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В разряженном состоянии",
             optionTwo = "В заряженном на 100%",
             optionThree = "В осушенном (без электролита)",
@@ -2014,7 +2014,7 @@ object MMS {
         val mms_1_3_q25 = Question(
             id = "ММС 1.3.25",
             question = "Какие меры необходимо предпринять в случае выявления в плавании следов масла и топлива в районе машинного помещения, при невозможности отключения двигателя в штормовых условиях?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Вывести людей на палубу в спасательных жилетах",
             optionTwo = "Вывести людей на палубу в спасательных жилетах, подготовить спасательные средства, проверить работоспособность радиостанции",
             optionThree = "Подготовить спасательные средства",
@@ -2048,7 +2048,7 @@ object MMS {
         val mms_1_4_q1 = Question(
             id = "ММС 1.4.1",
             question = "С какой целью на маломерных судах используется плавучий якорь?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_eea8308a,
             optionOne = "Для остановки на малых глубинах",
             optionTwo = "Для уменьшения дрейфа в штормовых условиях",
             optionThree = "Для уменьшения скорости движения",
@@ -2061,7 +2061,7 @@ object MMS {
         val mms_1_4_q2 = Question(
             id = "ММС 1.4.2",
             question = "Какого цвета должен быть огонь фальшфейера для подачи сигнала бедствия?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ce89abaf,
             optionOne = "Белого",
             optionTwo = "Зеленого",
             optionThree = "Красного",
@@ -2074,7 +2074,7 @@ object MMS {
         val mms_1_4_q3 = Question(
             id = "ММС 1.4.3",
             question = "В каких из перечисленных случаев на маломерных судах применяются деревянные пробки и клинья?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_9e7474c7,
             optionOne = "Для заделки небольших пробоин, для заделки трещин и разошедшихся швов, для заделки отверстий от вывалившихся заклепок и болтов",
             optionTwo = "Для заделки небольших пробоин",
             optionThree = "Для заделки отверстий от вывалившихся заклепок и болтов",
@@ -2087,7 +2087,7 @@ object MMS {
         val mms_1_4_q4 = Question(
             id = "ММС 1.4.4",
             question = "Как должны заводиться подкильные концы на катере или моторной лодке при постановке парусинового пластыря для заделки пробоины?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_9dd06741,
             optionOne = "В любом порядке",
             optionTwo = "Носовой конец заводится с носа, кормовой - с кормы",
             optionThree = "С кормы",
@@ -2104,7 +2104,7 @@ object MMS {
         val mms_1_4_q5 = Question(
             id = "ММС 1.4.5",
             question = "Как соответственно называются приспособления на спасательном жилете, обозначенные цифрами 1, 2 и 3?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_37c8125e,
             optionOne = "Ремни для транспортировки, батарейка и свисток",
             optionTwo = "Ремни крепления, свисток и батарейка",
             optionThree = "Ремни крепления, свисток и лампочка",
@@ -2117,7 +2117,7 @@ object MMS {
         val mms_1_4_q6 = Question(
             id = "ММС 1.4.6",
             question = "Какое количество индивидуальных спасательных жилетов должно быть на маломерном судне во время плавания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_330029e0,
             optionOne = "Не менее количества людей, находящихся на борту",
             optionTwo = "По два индивидуальных средства на каждого пассажира",
             optionThree = "По количеству пассажиров на борту",
@@ -2131,7 +2131,7 @@ object MMS {
         val mms_1_4_q7 = Question(
             id = "ММС 1.4.7",
             question = "Для каких целей предназначен спасательный жилет?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Все перечисленные цели",
             optionTwo = "Для обучения методам спасения",
             optionThree = "Для поддержания на плаву человека, находящегося в сознательном или бессознательном состоянии",
@@ -2144,7 +2144,7 @@ object MMS {
         val mms_1_4_q8 = Question(
             id = "ММС 1.4.8",
             question = "Как правильно должен использовать спасательный круг человек, упавший за борт?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_84b1efc3,
             optionOne = "Подплыть к кругу, взяться за него двумя руками и ожидать подхода судна",
             optionTwo = "Подплыть к кругу, взяться руками за него одной рукой, принять удобное положение и ожидать подхода судна",
             optionThree = "Подплыть к кругу, лечь на него и ожидать подхода судна",
@@ -2157,7 +2157,7 @@ object MMS {
         val mms_1_4_q9 = Question(
             id = "ММС 1.4.9",
             question = "Какое минимальное количество спасательных жилетов должно быть предусмотрено на судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Для каждого находящегося на судне лица",
             optionTwo = "Для каждого находящегося на судне лица и два запасных",
             optionThree = "Для каждого находящегося на судне лица и один запасной",
@@ -2170,7 +2170,7 @@ object MMS {
         val mms_1_4_q10 = Question(
             id = "ММС 1.4.10",
             question = "Как называется узел, используемый для крепления буксирного конца на лодке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5226bc4b,
             optionOne = "Беседочный",
             optionTwo = "Рифовый",
             optionThree = "Шкотовый",
@@ -2183,7 +2183,7 @@ object MMS {
         val mms_1_4_q11 = Question(
             id = "ММС 1.4.11",
             question = "Кто несет ответственность за оснащение маломерного судна спасательными и противопожарными средствами?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Капитан",
             optionTwo = "Судовладелец",
             optionThree = "Судоводитель",
@@ -2196,7 +2196,7 @@ object MMS {
         val mms_1_4_q12 = Question(
             id = "ММС 1.4.12",
             question = "Какое количество спасательных кругов должно находиться на маломерном судне при общем количестве людей на борту до 8?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_84b1efc3,
             optionOne = "1",
             optionTwo = "2",
             optionThree = "3",
@@ -2213,7 +2213,7 @@ object MMS {
         val mms_1_4_q13 = Question(
             id = "ММС 1.4.13",
             question = "Какое количество спасательных жилетов должно находиться на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "2",
             optionTwo = "4",
             optionThree = "По одному на каждого человека",
@@ -2226,7 +2226,7 @@ object MMS {
         val mms_1_4_q14 = Question(
             id = "ММС 1.4.14",
             question = "Какое количество теплозащитных средств должно находиться на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_93492dad,
             optionOne = "2",
             optionTwo = "4",
             optionThree = "По одному на каждого человека, находящегося на судне",
@@ -2243,7 +2243,7 @@ object MMS {
         val mms_1_4_q15 = Question(
             id = "ММС 1.4.15",
             question = "Какое количество комплектов страховочных сбруй должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_35ab5ca0,
             optionOne = "2",
             optionTwo = "4",
             optionThree = "По одному на каждого человека",
@@ -2258,7 +2258,7 @@ object MMS {
         val mms_1_4_q16 = Question(
             id = "ММС 1.4.16",
             question = "Какое количество красных парашютных ракет должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_eb777699,
             optionOne = "1",
             optionTwo = "12",
             optionThree = "3",
@@ -2271,7 +2271,7 @@ object MMS {
         val mms_1_4_q17 = Question(
             id = "ММС 1.4.17",
             question = "Какое количество красных парашютных ракет должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега до 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_eb777699,
             optionOne = "1",
             optionTwo = "12",
             optionThree = "3",
@@ -2284,7 +2284,7 @@ object MMS {
         val mms_1_4_q18 = Question(
             id = "ММС 1.4.18",
             question = "Какое количество белых парашютных ракет должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2125,
             optionOne = "12",
             optionTwo = "2",
             optionThree = "4",
@@ -2297,7 +2297,7 @@ object MMS {
         val mms_1_4_q19 = Question(
             id = "ММС 1.4.19",
             question = "Какое количество дымовых плавучих шашек должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега до 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2126,
             optionOne = "0",
             optionTwo = "1",
             optionThree = "2",
@@ -2310,7 +2310,7 @@ object MMS {
         val mms_1_4_q20 = Question(
             id = "ММС 1.4.20",
             question = "Какое количество дымовых плавучих шашек должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2126,
             optionOne = "0",
             optionTwo = "1",
             optionThree = "2",
@@ -2323,7 +2323,7 @@ object MMS {
         val mms_1_4_q21 = Question(
             id = "ММС 1.4.21",
             question = "Какое количество белых фальшфейеров должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега до 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2130,
             optionOne = "0",
             optionTwo = "2",
             optionThree = "4",
@@ -2336,7 +2336,7 @@ object MMS {
         val mms_1_4_q22 = Question(
             id = "ММС 1.4.22",
             question = "Какое количество красных фальшфейеров должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега до 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2131,
             optionOne = "0",
             optionTwo = "2",
             optionThree = "4",
@@ -2349,7 +2349,7 @@ object MMS {
         val mms_1_4_q23 = Question(
             id = "ММС 1.4.23",
             question = "Какое количество белых фальшфейеров должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2130,
             optionOne = "0",
             optionTwo = "2",
             optionThree = "4",
@@ -2362,7 +2362,7 @@ object MMS {
         val mms_1_4_q24 = Question(
             id = "ММС 1.4.24",
             question = "Какое количество красных фальшфейеров должно находиться на судне, эксплуатирующемся в районе плавания с удалением от берега более 12 миль?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2131,
             optionOne = "0",
             optionTwo = "2",
             optionThree = "4",
@@ -2375,7 +2375,7 @@ object MMS {
         val mms_1_4_q25 = Question(
             id = "ММС 1.4.25",
             question = "При какой длине маломерного судна допускается заменять спасательный круг спасательным кольцом с линем?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Менее 10 метров",
             optionTwo = "Менее 12 метров",
             optionThree = "Менее 6 метров",
@@ -2389,7 +2389,7 @@ object MMS {
         val mms_1_4_q26 = Question(
             id = "ММС 1.4.26",
             question = "Какое количество спасательных кругов должно находиться на маломерном судне длиной менее 12 метров?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_84b1efc3,
             optionOne = "0",
             optionTwo = "1",
             optionThree = "2",
@@ -2403,7 +2403,7 @@ object MMS {
         val mms_1_4_q27 = Question(
             id = "ММС 1.4.27",
             question = "Какое количество спасательных кругов должно находиться на маломерном судне длиной более 12 метров?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_84b1efc3,
             optionOne = "0",
             optionTwo = "1",
             optionThree = "2",
@@ -2416,7 +2416,7 @@ object MMS {
         val mms_1_4_q28 = Question(
             id = "ММС 1.4.28",
             question = "Какая комплектация спасательных кругов должна быть на маломерном судне длиной более 12 метров?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_84b1efc3,
             optionOne = "Два круга с плавучим якорем",
             optionTwo = "Два круга с самозажигающимся буйком",
             optionThree = "Два круга со спасательным линем",
@@ -2429,7 +2429,7 @@ object MMS {
         val mms_1_4_q29 = Question(
             id = "ММС 1.4.29",
             question = "Какой процент находящихся на маломерном судне людей должен быть обеспечен спасательными жилетами?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "100%",
             optionTwo = "25%",
             optionThree = "50%",
@@ -2442,7 +2442,7 @@ object MMS {
         val mms_1_4_q30 = Question(
             id = "ММС 1.4.30",
             question = "Какое из перечисленных ниже спасательных средств является коллективным?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_547cb60e,
             optionOne = "Гидротермокостюм",
             optionTwo = "Спасательный жилет",
             optionThree = "Спасательный круг",
@@ -2455,7 +2455,7 @@ object MMS {
         val mms_1_4_q31 = Question(
             id = "ММС 1.4.31",
             question = "Для какой цели предназначен спасательный плот?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Для обеспечения перевозки людей",
             optionTwo = "Для обеспечения сохранения жизни людей с момента оставления ими судна",
             optionThree = "Для оказания помощи судну, терпящему бедствие",
@@ -2468,7 +2468,7 @@ object MMS {
         val mms_1_4_q32 = Question(
             id = "ММС 1.4.32",
             question = "На какой из представленных иллюстраций изображен спасательный плот?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_dc5027e0,
             optionOne = "A",
             optionTwo = "Б",
             optionThree = "В",
@@ -2481,7 +2481,7 @@ object MMS {
         val mms_1_4_q33 = Question(
             id = "ММС 1.4.33",
             question = "Из какого источника происходит заполнение полостей надувного спасательного плота?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Из баллона со сжатым газом, находящимся внутри плота",
             optionTwo = "Из баллона со сжатым газом, установленным на месте хранения плота",
             optionThree = "От ручного насоса",
@@ -2494,7 +2494,7 @@ object MMS {
         val mms_1_4_q34 = Question(
             id = "ММС 1.4.34",
             question = "Для каких целей на спасательном плоту используются водобалластные карманы и плавучий якорь?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c73babe6,
             optionOne = "Для маневрирования и передвижения на короткие расстояни",
             optionTwo = "Для обеспечения остойчивости в штормовых условиях",
             optionThree = "Для обеспечения остойчивости в штормовых условиях, для уменьшения дрейфа под действием ветра, для маневрирования и передвижения на короткие расстояния",
@@ -2508,7 +2508,7 @@ object MMS {
         val mms_1_4_q35 = Question(
             id = "ММС 1.4.35",
             question = "Укажите, что из перечисленного не входит в снабжение спасательного плота.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Аптечка первой помощи",
             optionTwo = "Инструкция по сохранению жизни в спасательном плоту",
             optionThree = "Медицинский спирт из расчета 300 мл на человека",
@@ -2538,7 +2538,7 @@ object MMS {
         val mms_1_4_q36 = Question(
             id = "ММС 1.4.36",
             question = "Какое устройство предназначено для возврата перевернутого плота в нормальное положение?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Карманы на днище",
             optionTwo = "Ручки или стропы на днище",
             optionThree = "Специальный балласт",
@@ -2551,7 +2551,7 @@ object MMS {
         val mms_1_4_q37 = Question(
             id = "ММС 1.4.37",
             question = "Для чего предназначен спасательный круг?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e6a05cf4,
             optionOne = "Для обеспечения посадки в спасательный плот из воды",
             optionTwo = "Для одевания перед прыжком в воду",
             optionThree = "Для оказания помощи человеку за бортом",
@@ -2564,7 +2564,7 @@ object MMS {
         val mms_1_4_q38 = Question(
             id = "ММС 1.4.38",
             question = "Для каких целей предназначено теплозащитное средство?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_93492dad,
             optionOne = "Все перечисленные цели",
             optionTwo = "Для защиты человека от переохлаждения при нахождении в коллективном спасательном средстве",
             optionThree = "Для предотвращения перегрева на солнце",
@@ -2578,7 +2578,7 @@ object MMS {
         val mms_1_4_q39 = Question(
             id = "ММС 1.4.39",
             question = "Укажите, где должны находиться спасательные жилеты.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "В каютах экипажа и пассажиров",
             optionTwo = "В легкодоступных местах так, чтобы обеспечивалось максимальное удобство их распределения между людьми на борту судна и надевания",
             optionThree = "В спасательном плоту",
@@ -2591,7 +2591,7 @@ object MMS {
         val mms_1_4_q40 = Question(
             id = "ММС 1.4.40",
             question = "Когда необходимо ознакомиться с аварийными выходами и путями эвакуации по прибытии на борт судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1d69437b,
             optionOne = "В течение недели",
             optionTwo = "Немедленно после посадки на судно",
             optionThree = "Перед посадкой на судно",
@@ -2604,7 +2604,7 @@ object MMS {
         val mms_1_4_q41 = Question(
             id = "ММС 1.4.41",
             question = "Укажите, где должны находиться теплозащитные средства.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_93492dad,
             optionOne = "В каютах экипажа и пассажиров",
             optionTwo = "В местах, рекомендованных заводом-изготовителем судна",
             optionThree = "В спасательном плоту",
@@ -2619,7 +2619,7 @@ object MMS {
         val mms_1_4_q42 = Question(
             id = "ММС 1.4.42",
             question = "Укажите, где должны находиться спасательные круги.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e6a05cf4,
             optionOne = "В каютах экипажа и пассажиров",
             optionTwo = "В местах, рекомендованных заводом-изготовителем судна",
             optionThree = "В спасательном плоту",
@@ -2632,7 +2632,7 @@ object MMS {
         val mms_1_4_q43 = Question(
             id = "ММС 1.4.43",
             question = "Укажите в каком месте должен находиться спасательный плот.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "В каюте",
             optionTwo = "В контейнере на открытой палубе",
             optionThree = "В месте управления судном",
@@ -2645,7 +2645,7 @@ object MMS {
         val mms_1_4_q44 = Question(
             id = "ММС 1.4.44",
             question = "Какой из перечисленных порядков действий следует предпринять для спуска плота на воду?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Закрепить на судне фалинь выше его слабого звена, сбросить контейнер за борт, резко дернуть фалинь",
             optionTwo = "Закрепить фалинь, сбросить контейнер с плотом за борт",
             optionThree = "Резко дернуть фалинь, сбросить контейнер с плотом за борт",
@@ -2662,7 +2662,7 @@ object MMS {
         val mms_1_4_q45 = Question(
             id = "ММС 1.4.45",
             question = "Укажите способ восстановления нормального положения перевернутого спасательного плота?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Забраться на днище плота, ухватиться за специальные ручки или строп (фалинь), либо за борт, и соскальзывая в воду, опрокинуть плот на себя",
             optionTwo = "Любой из указанных способов",
             optionThree = "Находясь в воде, резким движением вверх и от себя осуществить переворот плота",
@@ -2675,7 +2675,7 @@ object MMS {
         val mms_1_4_q46 = Question(
             id = "ММС 1.4.46",
             question = "Укажите правильный способ посадки в спасательный плот.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1adb9c99,
             optionOne = "Любой из указанных способов",
             optionTwo = "Посадка со сходного трапа",
             optionThree = "Прыжок с борта судна в арку спасательного плота",
@@ -2690,7 +2690,7 @@ object MMS {
         val mms_1_4_q47 = Question(
             id = "ММС 1.4.47",
             question = "С помощью какого предмета спасательного снабжения осуществляется помощь людям, находящимся в воде для посадки в спасательный плот?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Плавучее спасательное кольцо",
             optionTwo = "Плавучие весла",
             optionThree = "Плавучий якорь",
@@ -2703,7 +2703,7 @@ object MMS {
         val mms_1_4_q48 = Question(
             id = "ММС 1.4.48",
             question = "Укажите правильный порядок действий при отходе от аварийного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f253ebf2,
             optionOne = "Опустить в воду плавучий якорь. Отдать фалинь и отойти от судна. Закрыть входы. Произвести поиск и подъем людей",
             optionTwo = "Опустить в воду плавучий якорь. Отдать фалинь и отойти от судна. Произвести поиск и подъем людей. Закрыть входы",
             optionThree = "Отдать фалинь и отойти от судна. Опустить в воду плавучий якорь. Произвести поиск и подъем людей. Закрыть входы",
@@ -2717,7 +2717,7 @@ object MMS {
         val mms_1_4_q49 = Question(
             id = "ММС 1.4.49",
             question = "Укажите правильное положение тела человека в воде, при нахождении его в спасательном жилете?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Вертикально",
             optionTwo = "Любой из перечисленных способов",
             optionThree = "На животе",
@@ -2730,7 +2730,7 @@ object MMS {
         val mms_1_4_q50 = Question(
             id = "ММС 1.4.50",
             question = "Какой из указанных предметов должен входить в комплект снабжения спасательного жилета?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Свисток",
             optionTwo = "Фальшфейер",
             optionThree = "Радиобуй",
@@ -2743,7 +2743,7 @@ object MMS {
         val mms_1_4_q51 = Question(
             id = "ММС 1.4.51",
             question = "Какое минимальное количество спасательных жилетов должно быть предусмотрено на судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Для каждого находящегося на судне лица",
             optionTwo = "Для каждого находящегося на судне лица и два запасных",
             optionThree = "Для каждого находящегося на судне лица и один запасной",
@@ -2756,7 +2756,7 @@ object MMS {
         val mms_1_4_q52 = Question(
             id = "ММС 1.4.52",
             question = "В каких случаях обязательно надевается спасательный жилет?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ad781bf4,
             optionOne = "Лица, находящиеся во время движения на беспалубных маломерных судах длиной до 4 метров включительно",
             optionTwo = "Лица, находящиеся на водных мотоциклах (гидроциклах) либо на буксируемых маломерными судами устройствах (водных лыжах, вейкбордах, подъемнобуксировочных системах, а также надувных буксируемых и иных устройствах)",
             optionThree = "Лица, находящиеся на водных мотоциклах (гидроциклах) либо на буксируемых маломерными судами устройствах (водных лыжах, вейкбордах, подъемнобуксировочных системах, а также надувных буксируемых и иных устройствах); лица, находящиеся во время движения на беспалубных маломерных судах длиной до 4 метров включительно; лица, находящиеся на открытой палубе маломерного судна либо на беспалубных маломерных судах во время шлюзования или прохождения акватории порта; дети до 12-летнего возраста, находящиеся вне судовых помещений.",
@@ -2769,7 +2769,7 @@ object MMS {
         val mms_1_4_q53 = Question(
             id = "ММС 1.4.53",
             question = "В каких случаях обязательно надевается страховочная сбруя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_35ab5ca0,
             optionOne = "При работе на палубе или несении вахты в штормовую погоду",
             optionTwo = "Перед выходом на палубу",
             optionThree = "При посадке в спасательный плот",
@@ -2782,7 +2782,7 @@ object MMS {
         val mms_1_4_q54 = Question(
             id = "ММС 1.4.54",
             question = "Что следует предпринять после посадки в спасательный плот, если судно, терпящее бедствие, остается на плаву?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1adb9c99,
             optionOne = "Не отходить от борта судна",
             optionTwo = "Отойти от борта судна и находиться около него, ожидать помощи",
             optionThree = "Отойти от судна и грести в сторону берега или к месту вероятного нахождения судов",
@@ -2795,7 +2795,7 @@ object MMS {
         val mms_1_4_q55 = Question(
             id = "ММС 1.4.55",
             question = "В каком месте на маломерном судне предпочтительнее хранить аварийное имущество?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Аварийное имущество, используемое снаружи - на палубе в водонепроницаемом ящике, используемое внутри - в легкодоступном месте",
             optionTwo = "В любом легкодоступном месте в кокпите",
             optionThree = "Внутри в легкодоступном месте",
@@ -2808,7 +2808,7 @@ object MMS {
         val mms_1_4_q56 = Question(
             id = "ММС 1.4.56",
             question = "Кого из перечисленных терпящих бедствие необходимо подобрать на борт судна в первую очередь?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_468ffc3e,
             optionOne = "Людей в спасательном плоту",
             optionTwo = "Человека без спасательных средств",
             optionThree = "Человека в гидрокостюме",
@@ -2848,7 +2848,7 @@ object MMS {
         val mms_1_5_q1 = Question(
             id = "ММС 1.5.1",
             question = "В каком из перечисленных помещений рекомендуется хранить кошму и огнетушитель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Камбуз",
             optionTwo = "Каюта",
             optionThree = "Кокпит",
@@ -2861,7 +2861,7 @@ object MMS {
         val mms_1_5_q2 = Question(
             id = "ММС 1.5.2",
             question = "Какое из перечисленных помещений подвержено наибольшему риску возникновения пожара?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Каюта",
             optionTwo = "Кокпит",
             optionThree = "Машинное помещение",
@@ -2874,7 +2874,7 @@ object MMS {
         val mms_1_5_q3 = Question(
             id = "ММС 1.5.3",
             question = "Какого принципа необходимо придерживаться во избежание перегрузки электросети?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Два штепселя на розетку",
             optionTwo = "Два штепселя на три розетки",
             optionThree = "Один штепсель на две розетки",
@@ -2887,7 +2887,7 @@ object MMS {
         val mms_1_5_q4 = Question(
             id = "ММС 1.5.4",
             question = "Какое минимальное количество огнетушителей должно быть размещено вблизи поста управления маломерным судном?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_96cacabe,
             optionOne = "0",
             optionTwo = "1",
             optionThree = "2",
@@ -2900,7 +2900,7 @@ object MMS {
         val mms_1_5_q5 = Question(
             id = "ММС 1.5.5",
             question = "Какой из перечисленных характеристик должны соответствовать емкости для сбора бытового и производственного мусора на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Водонепроницаемые",
             optionTwo = "Герметичные",
             optionThree = "Негорючие",
@@ -2913,7 +2913,7 @@ object MMS {
         val mms_1_5_q6 = Question(
             id = "ММС 1.5.6",
             question = "В каком случае рекомендуется бороться с пожаром на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_82117b90,
             optionOne = "В любом случае",
             optionTwo = "Если на судне отсутствует УКВ радиостанция",
             optionThree = "Если судно находится далеко от берега",
@@ -2927,7 +2927,7 @@ object MMS {
         val mms_1_5_q7 = Question(
             id = "ММС 1.5.7",
             question = "Какие первоначальные действия необходимо выполнить, при возгорании во внутренних помещениях?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_82117b90,
             optionOne = "Вызвать аварийно-спасательную службу по мобильному телефону",
             optionTwo = "Закрыть люки, двери и иллюминаторы, чтобы прекратить доступ воздуха к очагу пожара",
             optionThree = "Открыть люки, двери и иллюминаторы, чтобы избежать задымления",
@@ -2940,7 +2940,7 @@ object MMS {
         val mms_1_5_q8 = Question(
             id = "ММС 1.5.8",
             question = "Какие действия необходимо предпринять, если источник возгорания находится в задымленном помещении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b7e21d88,
             optionOne = "Не входить в помещение и подготовиться к покиданию судна",
             optionTwo = "Открыть двери, люки, иллюминаторы и войти в помещение",
             optionThree = "Приложить к органам дыхания влажное полотенце и войти в помещение",
@@ -2953,7 +2953,7 @@ object MMS {
         val mms_1_5_q9 = Question(
             id = "ММС 1.5.9",
             question = "Что необходимо выполнить, если Вы оказались в задымленном помещении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b7e21d88,
             optionOne = "Выяснить, где находится источник возгорания",
             optionTwo = "Оставаться в помещении до тех пор, пока пожар не будет потушен",
             optionThree = "Открыть иллюминатор для доступа свежего воздуха и покинуть помещение",
@@ -2968,7 +2968,7 @@ object MMS {
         val mms_1_5_q10 = Question(
             id = "ММС 1.5.10",
             question = "Что рекомендуется выполнить, если пожар развивается на маломерном судне, находящемся недалеко от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_dfcac8b6,
             optionOne = "Направить судно к берегу",
             optionTwo = "Подать сигнал бедствия и покинуть судно",
             optionThree = "Постараться вызвать помощь по мобильному телефону",
@@ -2981,7 +2981,7 @@ object MMS {
         val mms_1_5_q11 = Question(
             id = "ММС 1.5.11",
             question = "Что рекомендуется выполнить, если пожар развивается на маломерном судне, находящемся в море, на значительном удалении от берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_dc98b698,
             optionOne = "Раздать всем людям спасательные жилеты и покинуть судно",
             optionTwo = "Организовать людей в аварийную партию и бороться с пожаром",
             optionThree = "Разместить людей как можно дальше от огня и подать сигнал бедствия",
@@ -2994,7 +2994,7 @@ object MMS {
         val mms_1_5_q12 = Question(
             id = "ММС 1.5.12",
             question = "Что рекомендуется выполнить, если пожар развивается на маломерном судне, находящемся у причала?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_eafa0047,
             optionOne = "Организовать людей в аварийную партию и бороться с пожаром",
             optionTwo = "Разместить людей как можно дальше от огня и позвонить 01 (112)",
             optionThree = "Вывести экипаж и пассажиров на причал и подать сигнал бедствия",
@@ -3007,7 +3007,7 @@ object MMS {
         val mms_1_5_q13 = Question(
             id = "ММС 1.5.13",
             question = "Огнетушитель какого типа должен иметься на борту маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c4d33ad6,
             optionOne = "Водный",
             optionTwo = "Любой из перечисленных",
             optionThree = "Пенный",
@@ -3020,7 +3020,7 @@ object MMS {
         val mms_1_5_q14 = Question(
             id = "ММС 1.5.14",
             question = "В каком случае на маломерном судне, длиной до 6 метров должен быть установлен огнетушитель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_96cacabe,
             optionOne = "Во всех случаях",
             optionTwo = "Если на судне установлен стационарный бензиновый двигатель",
             optionThree = "Если на судне установлен стационарный дизельный двигатель",
@@ -3033,7 +3033,7 @@ object MMS {
         val mms_1_5_q15 = Question(
             id = "ММС 1.5.15",
             question = "Что из перечисленного необходимо выполнить для предотвращения взрыва при зарядке аккумуляторных батарей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Долить электролит",
             optionTwo = "Использовать очки и перчатки",
             optionThree = "Обеспечить хорошую вентиляцию",
@@ -3046,7 +3046,7 @@ object MMS {
         val mms_1_5_q16 = Question(
             id = "ММС 1.5.16",
             question = "Где должна находиться инструкция по использованию и обслуживанию огнетушителя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_96cacabe,
             optionOne = "В кокпите",
             optionTwo = "В салоне",
             optionThree = "На месте управления судном",
@@ -3059,7 +3059,7 @@ object MMS {
         val mms_1_5_q17 = Question(
             id = "ММС 1.5.17",
             question = "Система автоматического пожаротушения обычно используется для противопожарной защиты:",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Жилых помещений",
             optionTwo = "Камбуза",
             optionThree = "Машинного помещения",
@@ -3072,7 +3072,7 @@ object MMS {
         val mms_1_5_q18 = Question(
             id = "ММС 1.5.18",
             question = "Когда необходимо провести инструктаж членов экипажа и пассажиров о мерах пожарной безопасности на судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В течение 3-х часов после выхода в плавание",
             optionTwo = "В течение часа после выхода в плавание",
             optionThree = "Перед выходом в плавание",
@@ -3085,7 +3085,7 @@ object MMS {
         val mms_1_5_q19 = Question(
             id = "ММС 1.5.19",
             question = "Что необходимо сделать в первую очередь при возникновении пожара в жилых помещениях на судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5b7eac95,
             optionOne = "Начать тушить пожар",
             optionTwo = "Подать сигнал бедствия",
             optionThree = "Покинуть судно",
@@ -3098,7 +3098,7 @@ object MMS {
         val mms_1_5_q20 = Question(
             id = "ММС 1.5.20",
             question = "Что необходимо сделать в первую очередь при тушении пожаров электрооборудования под напряжением?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b03ed9ee,
             optionOne = "Начать тушение при помощи углекислотного огнетушителя",
             optionTwo = "Обесточить аварийное помещение и оборудование",
             optionThree = "Постелить резиновый (диэлектрический) коврик",
@@ -3111,7 +3111,7 @@ object MMS {
         val mms_1_5_q21 = Question(
             id = "ММС 1.5.21",
             question = "Каким образом должен подаваться огнегаситель к двигателю на судне, оборудованном противопожарной системой?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Без открытия или демонтажа защитных кожухов двигателя",
             optionTwo = "После демонтажа защитных кожухов двигателя",
             optionThree = "После открытия защитных кожухов двигателя",
@@ -3124,7 +3124,7 @@ object MMS {
         val mms_1_5_q22 = Question(
             id = "ММС 1.5.22",
             question = "Что необходимо выполнить для предупреждения аккумуляции газов, выделяемых аккумуляторными батареями?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Долить электролит в батарею",
             optionTwo = "Обеспечить их вентиляцию",
             optionThree = "Открутить пробки на батареях",
@@ -3137,7 +3137,7 @@ object MMS {
         val mms_1_5_q23 = Question(
             id = "ММС 1.5.23",
             question = "Разрешается ли держать открытыми защитные кожухи работающих стационарных двигателей на маломерном судне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Да, в случае перегрева двигателя",
             optionTwo = "Да, для внешнего осмотра двигателя",
             optionThree = "Да, для установления причин неисправности двигателя",
@@ -3172,7 +3172,7 @@ object MMS {
         val mms_1_6_q1 = Question(
             id = "ММС 1.6.1",
             question = "Чем обеспечивается непотопляемость на беспалубных малых судах?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_804eab9f,
             optionOne = "Водонепроницаемыми переборками",
             optionTwo = "Наличием герметичных воздушных или заполненных пенопластом ящиков",
             optionThree = "Размещением дополнительного балласта",
@@ -3185,7 +3185,7 @@ object MMS {
         val mms_1_6_q2 = Question(
             id = "ММС 1.6.2",
             question = "Как обеспечивается непотопляемость на маломерных судах?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Делением корпуса на водонепроницаемые отсеки (помещения)",
             optionTwo = "Оборудованием судна водоотливными средствами",
             optionThree = "Оборудованием судна водоотливными средствами, делением корпуса на водонепроницаемые отсеки (помещения), устройством двойного дна",
@@ -3198,7 +3198,7 @@ object MMS {
         val mms_1_6_q3 = Question(
             id = "ММС 1.6.3",
             question = "Какое мореходное качество судна обеспечивается делением его корпуса на водонепроницаемые отсеки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маневренность",
             optionTwo = "Непотопляемость",
             optionThree = "Остойчивость",
@@ -3211,7 +3211,7 @@ object MMS {
         val mms_1_6_q4 = Question(
             id = "ММС 1.6.4",
             question = "Где можно найти сведения об остойчивости и непотопляемости маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "В ГИМС",
             optionTwo = "В интернете",
             optionThree = "В учебниках по теории устройства судна",
@@ -3224,7 +3224,7 @@ object MMS {
         val mms_1_6_q5 = Question(
             id = "ММС 1.6.5",
             question = "Какие меры должны быть предприняты судоводителем в случае обнаружения разгерметизации предусмотренных конструкцией гермоотсеков (воздушных ящиков)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Прекратить эксплуатацию судна до устранения неисправности",
             optionTwo = "Продолжить эксплуатацию судна до планового ремонта",
             optionThree = "Продолжить эксплуатацию судна при наличии спасательного плота",
@@ -3237,7 +3237,7 @@ object MMS {
         val mms_1_6_q6 = Question(
             id = "ММС 1.6.6",
             question = "Какова наиболее вероятная причина появления внутри корпуса судна солёной (пресной) и горячей воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Не плотно закрытые иллюминаторы",
             optionTwo = "Повреждение в системе охлаждения двигателя",
             optionThree = "Повреждение в системе слива гальюна",
@@ -3250,7 +3250,7 @@ object MMS {
         val mms_1_6_q7 = Question(
             id = "ММС 1.6.7",
             question = "Какова наиболее вероятная причина поступления внутрь корпуса судна солёной (пресной) и холодной воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Не плотно закрытые иллюминаторы",
             optionTwo = "Повреждение в системе слива гальюна",
             optionThree = "Повреждение в системе слива гальюна, повреждение корпуса, не плотно закрытые иллюминаторы",
@@ -3263,7 +3263,7 @@ object MMS {
         val mms_1_6_q8 = Question(
             id = "ММС 1.6.8",
             question = "Какова наиболее вероятная причина появления внутри корпуса судна пресной воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Любая из перечисленных",
             optionTwo = "Повреждение в системе охлаждения двигателя",
             optionThree = "Повреждение в системе слива гальюна",
@@ -3276,7 +3276,7 @@ object MMS {
         val mms_1_6_q9 = Question(
             id = "ММС 1.6.9",
             question = "Какова наиболее вероятная причина появления внутри корпуса судна тёплой воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Не плотно закрытые иллюминаторы",
             optionTwo = "Повреждение в системе охлаждения двигателя",
             optionThree = "Повреждение в системе слива гальюна",
@@ -3289,7 +3289,7 @@ object MMS {
         val mms_1_6_q10 = Question(
             id = "ММС 1.6.10",
             question = "Какова наиболее вероятная причина появления внутри корпуса судна холодной воды?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a15e0ec4,
             optionOne = "Повреждение в системе слива гальюна",
             optionTwo = "Повреждение корпуса",
             optionThree = "Повреждение в системе судового водоснабжения",
@@ -3304,7 +3304,7 @@ object MMS {
         val mms_1_6_q11 = Question(
             id = "ММС 1.6.11",
             question = "Как называется способность судна держаться на плаву, сохраняя свои мореходные качества, несмотря на поступление воды в один или несколько отсеков корпуса судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Мореходность",
             optionTwo = "Непотопляемость",
             optionThree = "Остойчивость",
@@ -3317,7 +3317,7 @@ object MMS {
         val mms_1_6_q12 = Question(
             id = "ММС 1.6.12",
             question = "Чем обеспечивается непотопляемость маломерного судна в случае повреждения корпуса?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Водонепроницаемыми переборками",
             optionTwo = "Герметичными воздушными ящиками",
             optionThree = "Герметичными воздушными ящиками, водонепроницаемыми переборками, поддержанием в готовности всех средств борьбы за непотопляемость",
@@ -3330,7 +3330,7 @@ object MMS {
         val mms_1_6_q13 = Question(
             id = "ММС 1.6.13",
             question = "Какие первоочередные действия следует предпринять при получении пробоины в днище?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Оповестить экипаж и находящиеся поблизости суда, приступить к разведке места пробоины, выбрать способ ее заделки и приступить к ней",
             optionTwo = "Оповестить экипаж, надеть индивидуальные спасательные средства, готовить имеющиеся коллективные спасательные средства, направить судно в сторону мелей или берега, далее действовать в зависимости от скорости поступления воды",
             optionThree = "Осмотреть место пробоины, оповестить экипаж, готовить средства для заделки пробоины",
@@ -3344,7 +3344,7 @@ object MMS {
         val mms_1_6_q14 = Question(
             id = "ММС 1.6.14",
             question = "Как называется способность судна держаться на поверхности воды с заданной осадкой при полной нагрузке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Маневренность",
             optionTwo = "Непотопляемость",
             optionThree = "Остойчивость",
@@ -3357,7 +3357,7 @@ object MMS {
         val mms_1_6_q15 = Question(
             id = "ММС 1.6.15",
             question = "Выберите правильное продолжение определения \"Запас плавучести - это непроницаемый для воды объем корпуса судна, находящийся …",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "В корме",
             optionTwo = "Выше ватерлинии",
             optionThree = "На уровне ватерлинии",
@@ -3370,7 +3370,7 @@ object MMS {
         val mms_1_6_q16 = Question(
             id = "ММС 1.6.16",
             question = "При каком объёме затоплений должна сохраняться положительная плавучесть полностью загруженного маломерного судна, имеющего деление корпуса на отсеки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "При затоплении всех отсеков",
             optionTwo = "При затоплении любого одного отсека",
             optionThree = "При затоплении любых двух отсеков",
@@ -3385,7 +3385,7 @@ object MMS {
         val mms_1_6_q17 = Question(
             id = "ММС 1.6.17",
             question = "При каких повреждениях должна сохраняться положительная плавучесть надувного маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Ни в одном из перечисленных",
             optionTwo = "При повреждении всех имеющихся секций плавучести",
             optionThree = "При повреждении любой одной секции плавучести",
@@ -3398,7 +3398,7 @@ object MMS {
         val mms_1_6_q18 = Question(
             id = "ММС 1.6.18",
             question = "Что из перечисленного должно произойти с полностью затопленным маломерным судном на тихой воде?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Должно остаться на плаву и принять вертикальное положение носом вверх",
             optionTwo = "Должно остаться на плаву, килем вверх",
             optionThree = "Должно сохранить положительный запас плавучести и остойчивости",
@@ -3411,7 +3411,7 @@ object MMS {
         val mms_1_6_q19 = Question(
             id = "ММС 1.6.19",
             question = "Какое из перечисленных мореходных качеств судна в первую очередь обеспечивает \"запас плавучести\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Маневренность",
             optionTwo = "Непотопляемость",
             optionThree = "Остойчивость",
@@ -3424,7 +3424,7 @@ object MMS {
         val mms_1_6_q20 = Question(
             id = "ММС 1.6.20",
             question = "Какое из перечисленных мероприятий относится к конструктивным мерам обеспечения непотопляемости маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Закрытие дверей, люков и иллюминаторов",
             optionTwo = "Наблюдение за отсутствием воды в трюме и в отсеках",
             optionThree = "Периодический осмотр корпуса судна",
@@ -3455,7 +3455,7 @@ object MMS {
         val mms_2_1_q1 = Question(
             id = "ММС 2.1.1",
             question = "Как называется борт судна, обращенный к ветру?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Навальный",
             optionTwo = "Наветренный",
             optionThree = "Подветренный",
@@ -3468,7 +3468,7 @@ object MMS {
         val mms_2_1_q2 = Question(
             id = "ММС 2.1.2",
             question = "Как называется волнение, распространяющееся в виде свободных волн по инерции, после прекращения воздействия ветра?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_19e4c382,
             optionOne = "Буруны",
             optionTwo = "Зыбь",
             optionThree = "Прибой",
@@ -3481,7 +3481,7 @@ object MMS {
         val mms_2_1_q3 = Question(
             id = "ММС 2.1.3",
             question = "Какую скорость следует выбрать для безопасного прохода через гребень?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_11c4f2bf,
             optionOne = "30 км/ч",
             optionTwo = "60 км/ч",
             optionThree = "Максимальную",
@@ -3494,7 +3494,7 @@ object MMS {
         val mms_2_1_q4 = Question(
             id = "ММС 2.1.4",
             question = "При каком условии во время движения по течению судно \"слушается руля\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4798fde4,
             optionOne = "Если скорость судна больше скорости течения",
             optionTwo = "Если скорость судна и течения равны",
             optionThree = "Если скорость судна меньше скорости течения",
@@ -3507,7 +3507,7 @@ object MMS {
         val mms_2_1_q5 = Question(
             id = "ММС 2.1.5",
             question = "Как правильно сделать поворот на обратный курс в узкости при боковом ветре?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a46a6555,
             optionOne = "\"На ветер\"",
             optionTwo = "\"Под ветер\"",
             optionThree = "Застопорить ход и положить руль \"под ветер\"",
@@ -3520,7 +3520,7 @@ object MMS {
         val mms_2_1_q6 = Question(
             id = "ММС 2.1.6",
             question = "Как следует проходить на маломерном судне небольшие суводи?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2a328e1e,
             optionOne = "На веслах",
             optionTwo = "На малом ходу",
             optionThree = "На полном ходу",
@@ -3534,7 +3534,7 @@ object MMS {
         val mms_2_1_q7 = Question(
             id = "ММС 2.1.7",
             question = "В каком из перечисленных случаев маломерным судном управлять значительно легче?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_77479ee4,
             optionOne = "При движении вниз",
             optionTwo = "При движении против течения",
             optionThree = "При направлении течения в левый борт",
@@ -3547,7 +3547,7 @@ object MMS {
         val mms_2_1_q8 = Question(
             id = "ММС 2.1.8",
             question = "Как на маломерном судне рекомендуется подходить к необорудованному берегу при сильной волне?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_9ba3ed98,
             optionOne = "Лагом",
             optionTwo = "Между волнами",
             optionThree = "На волне",
@@ -3560,7 +3560,7 @@ object MMS {
         val mms_2_1_q9 = Question(
             id = "ММС 2.1.9",
             question = "Какие действия должен предпринять судоводитель при выводе маломерного судна из большой суводи?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3f4872d9,
             optionOne = "Вести судно по внешнему краю суводи и, увеличивая ход, выходить к стрежню",
             optionTwo = "Вести судно по внешнему краю суводи и, уменьшая ход, выходить к стрежню",
             optionThree = "Увеличить ход и пройти через центр суводи",
@@ -3573,7 +3573,7 @@ object MMS {
         val mms_2_1_q10 = Question(
             id = "ММС 2.1.10",
             question = "Что является основным условием безопасной проводки судна через перекаты?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_11c4f2bf,
             optionOne = "Направление струй течения должно быть перпендикулярно курсу судна",
             optionTwo = "Резкое увеличение скорости судна при прохождении гребня переката",
             optionThree = "Удержание курса судна параллельно направлению струй течения",
@@ -3586,7 +3586,7 @@ object MMS {
         val mms_2_1_q11 = Question(
             id = "ММС 2.1.11",
             question = "Какое из перечисленных действий необходимо принимать при проходе под мостами с сильным течением?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_446956e9,
             optionOne = "Вести судно параллельно (вдоль) направления струй течения с учетом ветра",
             optionTwo = "Переместить груз на корму судна и следовать ближе к опоре моста",
             optionThree = "Переместить груз на нос судна и следовать на полном ходу",
@@ -3600,7 +3600,7 @@ object MMS {
         val mms_2_1_q12 = Question(
             id = "ММС 2.1.12",
             question = "На каком из этих судов (А или Б) при движении против течения правильно производится поворот на обратный курс?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b3477e3a,
             optionOne = "На \"А\"",
             optionTwo = "На \"А\" и \"Б\"",
             optionThree = "На \"А\" и \"Б\" неправильно, т.к. не учтено влияние скорости струи течения на перо руля и корпус судна",
@@ -3613,7 +3613,7 @@ object MMS {
         val mms_2_1_q13 = Question(
             id = "ММС 2.1.13",
             question = "На каком из этих судов (А или Б) при движении по течению правильно производится поворот на обратный курс?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1cddc247,
             optionOne = "На \"А\"",
             optionTwo = "На \"А\" и \"Б\"",
             optionThree = "На \"А\" и \"Б\" неправильно, т.к. не учтено влияние скорости струй течения на корпус и перо руля судна",
@@ -3626,7 +3626,7 @@ object MMS {
         val mms_2_1_q14 = Question(
             id = "ММС 2.1.14",
             question = "В какое направление перемещается судно под влиянием сильного волнения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Носом на волну",
             optionTwo = "Кормой на волну",
             optionThree = "В любое из перечисленных направлений",
@@ -3639,7 +3639,7 @@ object MMS {
         val mms_2_1_q15 = Question(
             id = "ММС 2.1.15",
             question = "В каком из приведенных случаев судно лучше управляется?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Одинаково во всех перечисленных",
             optionTwo = "При движении по течению",
             optionThree = "При движении поперек течения",
@@ -3652,7 +3652,7 @@ object MMS {
         val mms_2_1_q16 = Question(
             id = "ММС 2.1.16",
             question = "При какой скорости судно, движущееся по течению, лучше управляется?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Если скорость судна больше скорости течения",
             optionTwo = "Если скорость судна меньше скорости течения",
             optionThree = "Если скорость судна равна скорости течения",
@@ -3665,7 +3665,7 @@ object MMS {
         val mms_2_1_q17 = Question(
             id = "ММС 2.1.17",
             question = "Как называется левый борт судна, правый борт которого обращен к ветру?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Навальный",
             optionTwo = "Наветренный",
             optionThree = "Подветренный",
@@ -3678,7 +3678,7 @@ object MMS {
         val mms_2_1_q18 = Question(
             id = "ММС 2.1.18",
             question = "Как называется ветер, дующий в сторону от причала?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Наветренный",
             optionTwo = "Отжимной",
             optionThree = "Подветренный",
@@ -3691,7 +3691,7 @@ object MMS {
         val mms_2_1_q19 = Question(
             id = "ММС 2.1.19",
             question = "Как называется ветер, дующий в сторону причала?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Наветренный",
             optionTwo = "Отжимной",
             optionThree = "Подветренный",
@@ -3704,7 +3704,7 @@ object MMS {
         val mms_2_1_q20 = Question(
             id = "ММС 2.1.20",
             question = "В каком направлении рекомендуется производить поворот на обратный курс при сильном боковом ветре?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "В любом направлении",
             optionTwo = "На ветер",
             optionThree = "По ветру",
@@ -3717,7 +3717,7 @@ object MMS {
         val mms_2_1_q21 = Question(
             id = "ММС 2.1.21",
             question = "В каком из перечисленных случаев судно легче удерживать на курсе?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Направление волны не имеет значения",
             optionTwo = "При бортовой волне",
             optionThree = "При встречной волне",
@@ -3730,7 +3730,7 @@ object MMS {
         val mms_2_1_q22 = Question(
             id = "ММС 2.1.22",
             question = "Как называется ветер, который воздействует на неподвижно стоящее судно?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Истинный",
             optionTwo = "Кажущийся (вымпельный)",
             optionThree = "Курсовой",
@@ -3743,7 +3743,7 @@ object MMS {
         val mms_2_1_q23 = Question(
             id = "ММС 2.1.23",
             question = "Как называется ветер, который образовывается в результате движения судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Движущийся",
             optionTwo = "Истинный",
             optionThree = "Кажущийся (вымпельный)",
@@ -3756,7 +3756,7 @@ object MMS {
         val mms_2_1_q24 = Question(
             id = "ММС 2.1.24",
             question = "С какой стороны движущегося вперед судна всегда направлен курсовой ветер?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "С кормы",
             optionTwo = "С левого борта",
             optionThree = "С носа",
@@ -3769,7 +3769,7 @@ object MMS {
         val mms_2_1_q25 = Question(
             id = "ММС 2.1.25",
             question = "Направление какого ветра показывает установленный на мачте ветроуказатель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Истинного",
             optionTwo = "Кажущегося (вымпельного)",
             optionThree = "Курсового",
@@ -3782,7 +3782,7 @@ object MMS {
         val mms_2_1_q26 = Question(
             id = "ММС 2.1.26",
             question = "При каком направлении движения судна относительно течения поворот на обратный курс следует производить \"из тихого течения\" в сторону \"быстрого\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "В любом случае",
             optionTwo = "По течению",
             optionThree = "Поперек течения",
@@ -3795,7 +3795,7 @@ object MMS {
         val mms_2_1_q27 = Question(
             id = "ММС 2.1.27",
             question = "При каком направлении движения судна относительно течения поворот на обратный курс следует производить \"из быстрого течения \" в сторону \"тихого \"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "В любом случае",
             optionTwo = "По течению",
             optionThree = "Поперек течения",
@@ -3808,7 +3808,7 @@ object MMS {
         val mms_2_1_q28 = Question(
             id = "ММС 2.1.28",
             question = "Как называется ветер, дующий против течения реки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_58601900,
             optionOne = "Бриз",
             optionTwo = "Верховой",
             optionThree = "Встречный",
@@ -3821,7 +3821,7 @@ object MMS {
         val mms_2_1_q29 = Question(
             id = "ММС 2.1.29",
             question = "Как называется неправильное течение, которое представляет собой слив воды, направленный под углом к судовому ходу, и возникающее из-за разности в уровнях воды по ширине реки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_20db04bc,
             optionOne = "Затяжное",
             optionTwo = "Прижимное",
             optionThree = "Свальное",
@@ -3834,7 +3834,7 @@ object MMS {
         val mms_2_1_q30 = Question(
             id = "ММС 2.1.30",
             question = "Какую погоду следует ожидать при резком падении атмосферного давления и появлении перисто-кучевых облаков?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_75c9a0b0,
             optionOne = "Грозу и шторм через 1-2 часа",
             optionTwo = "Изменение направления ветра",
             optionThree = "Усиления дождя",
@@ -3848,7 +3848,7 @@ object MMS {
         val mms_2_1_q31 = Question(
             id = "ММС 2.1.31",
             question = "Как называется течение, которое создается у берега на участках, где слив воды направлен к берегу, и вызывает раскат судов в сторону берега?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d3dc2735,
             optionOne = "Затяжное",
             optionTwo = "Прижимное",
             optionThree = "Раскатное",
@@ -3880,7 +3880,7 @@ object MMS {
         val mms_2_2_q1 = Question(
             id = "ММС 2.2.1",
             question = "Как изменяется скорость маломерного судна на циркуляции?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_418b693c,
             optionOne = "Не изменяется",
             optionTwo = "Сначала резко увеличивается, затем начинает уменьшаться",
             optionThree = "Увеличивается",
@@ -3893,7 +3893,7 @@ object MMS {
         val mms_2_2_q2 = Question(
             id = "ММС 2.2.2",
             question = "Как зависит диаметр циркуляции (Дц) от скорости судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_418b693c,
             optionOne = "Дц от скорости судна не зависит",
             optionTwo = "Чем больше скорость, тем меньше Дц",
             optionThree = "Чем меньше скорость, тем больше Дц",
@@ -3906,7 +3906,7 @@ object MMS {
         val mms_2_2_q3 = Question(
             id = "ММС 2.2.3",
             question = "В каком из перечисленных случаев будет наилучшая управляемость маломерного судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "При придании судну небольшого дифферента на корму",
             optionTwo = "При придании судну небольшого дифферента на нос",
             optionThree = "При придании судну небольшого крена на левый борт",
@@ -3919,7 +3919,7 @@ object MMS {
         val mms_2_2_q4 = Question(
             id = "ММС 2.2.4",
             question = "Что является единицей измерения диаметра циркуляции судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_323a4eb8,
             optionOne = "Высота борта",
             optionTwo = "Длина киля",
             optionThree = "Длина судна или метр",
@@ -3933,7 +3933,7 @@ object MMS {
         val mms_2_2_q5 = Question(
             id = "ММС 2.2.5",
             question = "Для какого одновинтового моторного судна характерен такой подход к пирсу (причалу)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_323a4eb8,
             optionOne = "С винтом левого вращения",
             optionTwo = "С винтом левого вращения при отжимном течении",
             optionThree = "С винтом любого вращения",
@@ -3946,7 +3946,7 @@ object MMS {
         val mms_2_2_q6 = Question(
             id = "ММС 2.2.6",
             question = "Для какого одновинтового моторного судна характерен такой подход к пирсу (причалу)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d47e4f0f,
             optionOne = "С винтом левого вращения",
             optionTwo = "С винтом левого вращения при отжимном ветре",
             optionThree = "С винтом любого вращения",
@@ -3959,7 +3959,7 @@ object MMS {
         val mms_2_2_q7 = Question(
             id = "ММС 2.2.7",
             question = "Как называется указанный на рисунке способ буксировки одним маломерным судном другого?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d5a50b81,
             optionOne = "Боковой",
             optionTwo = "Бортовой",
             optionThree = "В кильватер",
@@ -3972,7 +3972,7 @@ object MMS {
         val mms_2_2_q8 = Question(
             id = "ММС 2.2.8",
             question = "В какую сторону на переднем ходу при винте левого вращения судно поворачивается лучше?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6e3bbab5,
             optionOne = "Влево",
             optionTwo = "Влево не поворачивается",
             optionThree = "Вправо",
@@ -3986,7 +3986,7 @@ object MMS {
         val mms_2_2_q9 = Question(
             id = "ММС 2.2.9",
             question = "В каком из перечисленных случаев при буксировке лагом диаметр циркуляции будет минимальным?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d5a50b81,
             optionOne = "Диаметр циркуляции не зависит от стороны перекладки руля",
             optionTwo = "При перекладке руля на левый борт",
             optionThree = "При перекладке руля на левый борт с увеличением скорости",
@@ -3999,7 +3999,7 @@ object MMS {
         val mms_2_2_q10 = Question(
             id = "ММС 2.2.10",
             question = "Как должна быть отрегулирована длина буксирного троса при буксировке в кильватер на волнении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_cf59283e,
             optionOne = "Длина буксирного троса должна быть от 10 до 15 м, и регулировать его длину не нужно",
             optionTwo = "Когда буксировщик находится на гребне волны, буксируемое судно должно находиться в ее ложбине (подошве)",
             optionThree = "Когда буксировщик проходит подошву волны, буксируемое судно должно находиться на гребне",
@@ -4012,7 +4012,7 @@ object MMS {
         val mms_2_2_q11 = Question(
             id = "ММС 2.2.11",
             question = "В какую сторону на заднем ходу при винте правого вращения судно лучше поворачивается кормой?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_94e4da90,
             optionOne = "Одинаково",
             optionTwo = "Вправо",
             optionThree = "Влево",
@@ -4027,7 +4027,7 @@ object MMS {
         val mms_2_2_q12 = Question(
             id = "ММС 2.2.12",
             question = "Каким способом для повышения управляемости следует счалить маломерные суда при буксировке лагом?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d5a50b81,
             optionOne = "Корма буксировщика и буксируемого судна должны быть на одном уровне",
             optionTwo = "Корму буксируемого судна сместить вперед вдоль буксировщика на треть корпуса",
             optionThree = "Нос буксируемого судна должен быть расположен на одном уровне с носом буксировщика",
@@ -4040,7 +4040,7 @@ object MMS {
         val mms_2_2_q13 = Question(
             id = "ММС 2.2.13",
             question = "В какую сторону диаметр циркуляции для одновинтового судна с винтом левого вращения будет меньше?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f4f7893c,
             optionOne = "Влево",
             optionTwo = "Вправо",
             optionThree = "Диаметр циркуляции не зависит от стороны поворота",
@@ -4053,7 +4053,7 @@ object MMS {
         val mms_2_2_q14 = Question(
             id = "ММС 2.2.14",
             question = "Какие из перечисленных действий следует предпринять при отвале от берега, если судно не сдвигается?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c6bdd5ef,
             optionOne = "Положить руль на борт, расположить пассажиров на противоположном борту ближе к носу и дать задний ход",
             optionTwo = "Поставить руль прямо, пассажиров разместить на носу, на несколько минут дать передний ход, затем - задний",
             optionThree = "Раскачать судно на переднем ходу путем перекладки руля с борта на борт",
@@ -4066,7 +4066,7 @@ object MMS {
         val mms_2_2_q15 = Question(
             id = "ММС 2.2.15",
             question = "В какую сторону на заднем ходу при выключенном двигателе уклоняется корма при перекладке руля влево?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b9208805,
             optionOne = "Влево",
             optionTwo = "Вправо",
             optionThree = "Не уклоняется",
@@ -4079,7 +4079,7 @@ object MMS {
         val mms_2_2_q16 = Question(
             id = "ММС 2.2.16",
             question = "Как называется кривая, которую описывает судно за время его поворота на 360 градусов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_418b693c,
             optionOne = "Диаметр циркуляции",
             optionTwo = "Окружность",
             optionThree = "Радиус циркуляции",
@@ -4092,7 +4092,7 @@ object MMS {
         val mms_2_2_q17 = Question(
             id = "ММС 2.2.17",
             question = "В какую сторону перемещается нос одновинтового судна на установившемся переднем ходу (руль \"прямо\") при винте правого вращения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6e3bbab5,
             optionOne = "Не уклоняется",
             optionTwo = "То влево, то вправо",
             optionThree = "Влево",
@@ -4106,7 +4106,7 @@ object MMS {
         val mms_2_2_q18 = Question(
             id = "ММС 2.2.18",
             question = "Какие из перечисленных действий необходимо предпринять судоводителю маломерного судна, попавшему в штормовые условия, чтобы обеспечить остойчивость?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2f38476d,
             optionOne = "Не допускать крутую циркуляцию через гребни волн",
             optionTwo = "Не допускать положения судна на гребне волны",
             optionThree = "Не допускать положения судна на гребне волны, удерживать судно носом на волну, не допускать крутую циркуляцию через гребни волн",
@@ -4120,7 +4120,7 @@ object MMS {
         val mms_2_2_q19 = Question(
             id = "ММС 2.2.19",
             question = "В какую сторону в первые секунды покатится корма при переходе с переднего хода на задний на одновинтовом судне (руль \"прямо\"), имеющем винт правого вращения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1381b431,
             optionOne = "Влево",
             optionTwo = "Вправо",
             optionThree = "Корма не уклоняется",
@@ -4133,7 +4133,7 @@ object MMS {
         val mms_2_2_q20 = Question(
             id = "ММС 2.2.20",
             question = "Как называется способность судна удерживать заданное направление движения при неизменном положении руля и изменять на ходу направление своего движения под действием руля?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Поворотливость",
             optionTwo = "Управляемость",
             optionThree = "Устойчивость на курсе",
@@ -4146,7 +4146,7 @@ object MMS {
         val mms_2_2_q21 = Question(
             id = "ММС 2.2.21",
             question = "Какие действия необходимо предпринять судоводителю моторного судна, имеющего один винт правого вращения на установившемся переднем ходу, чтобы удерживать судно на заданном курсе?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bd1b283f,
             optionOne = "Переложить руль на несколько градусов влево",
             optionTwo = "Переложить руль на несколько градусов вправо",
             optionThree = "Создать дифферент на корму",
@@ -4160,7 +4160,7 @@ object MMS {
         val mms_2_2_q22 = Question(
             id = "ММС 2.2.22",
             question = "Как называется струя (след) позади идущего судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_be80402a,
             optionOne = "Волновая",
             optionTwo = "Кильватерная",
             optionThree = "Кормовая",
@@ -4173,7 +4173,7 @@ object MMS {
         val mms_2_2_q23 = Question(
             id = "ММС 2.2.23",
             question = "Какие из перечисленных действий необходимо выполнять судоводителю маломерного судна при использовании прожектора во время плавания ночью?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e4830e6a,
             optionOne = "Использовать прожектор только как световую отмашку при расхождении с другими судами",
             optionTwo = "Не допускать освещения прожектором других судов, особенно при расхождении с ними или обгоне",
             optionThree = "Прожектор включать в сторону встречного или обгоняемого судна не более, чем на 5-7 секунд",
@@ -4187,7 +4187,7 @@ object MMS {
         val mms_2_2_q24 = Question(
             id = "ММС 2.2.24",
             question = "Какие действия во время движения необходимо предпринять, если у маломерного судна поднялся нос, возникла рыскливость и (или) вибрация корпуса?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_401569a1,
             optionOne = "Дать задний ход",
             optionTwo = "Резко изменить курс",
             optionThree = "Срочно переместить груз и (или) пассажиров на нос судна",
@@ -4201,7 +4201,7 @@ object MMS {
         val mms_2_2_q25 = Question(
             id = "ММС 2.2.25",
             question = "На каком расстоянии рекомендуется начинать производить обгон на маломерном судне больших судов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_fc1826d7,
             optionOne = "Не менее двух длин корпуса обгоняемого судна",
             optionTwo = "Не менее длины корпуса маломерного судна",
             optionThree = "Не менее длины корпуса обгоняемого судна",
@@ -4216,7 +4216,7 @@ object MMS {
         val mms_2_2_q26 = Question(
             id = "ММС 2.2.26",
             question = "Что рекомендуется выполнить при необходимости обойти препятствие на малой скорости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Заглушить двигатель",
             optionTwo = "Использовать реверс для торможения",
             optionThree = "Использовать рычаг акселератора",
@@ -4229,7 +4229,7 @@ object MMS {
         val mms_2_2_q27 = Question(
             id = "ММС 2.2.27",
             question = "Что необходимо выполнить перед выполнением поворота на высокой скорости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Убедиться в исправной работе дроссельной заслонки",
             optionTwo = "Убедиться, что все люди на борту знают о предстоящем маневре",
             optionThree = "Убедиться, что все люди на борту знают о предстоящем маневре; убедиться, что имеется достаточно места для маневра; убедиться в исправной работе дроссельной заслонки",
@@ -4242,7 +4242,7 @@ object MMS {
         val mms_2_2_q28 = Question(
             id = "ММС 2.2.28",
             question = "К чему может привести недостаточность скорости судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "К потере непотопляемости",
             optionTwo = "К потере остойчивости",
             optionThree = "К потере плавучести",
@@ -4257,7 +4257,7 @@ object MMS {
         val mms_2_2_q29 = Question(
             id = "ММС 2.2.29",
             question = "В каком из перечисленных случаев обгона наиболее опасен эффект присасывания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Если обгоняющее судно крупнее обгоняемого",
             optionTwo = "Если обгоняемое и обгоняющее суда одинаковых размеров",
             optionThree = "Если обгоняемое судно крупнее обгоняющего",
@@ -4271,7 +4271,7 @@ object MMS {
         val mms_2_2_q30 = Question(
             id = "ММС 2.2.30",
             question = "Как следует подходить на маломерном судне к аварийному (подтопленному) судну для оказания помощи людям при плохих погодных условиях?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_40a66d56,
             optionOne = "Подойти к корме или носу аварийного судна и пересадить людей на борт",
             optionTwo = "Ошвартоваться с наветренного борта и пересадить людей на борт",
             optionThree = "Держаться с подветренной стороны на длинном, незакрепленном на своем судне конце и подать спасаемым людям бросательные концы с огонами (петлями), спасательные круги с линями",
@@ -4284,7 +4284,7 @@ object MMS {
         val mms_2_2_q31 = Question(
             id = "ММС 2.2.31",
             question = "В какую сторону диаметр циркуляции для одновинтового судна с винтом левого вращения будет меньше?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f4f7893c,
             optionOne = "Влево",
             optionTwo = "Вправо",
             optionThree = "Диаметр циркуляции не зависит от стороны поворота",
@@ -4297,7 +4297,7 @@ object MMS {
         val mms_2_2_q32 = Question(
             id = "ММС 2.2.32",
             question = "При каком из перечисленных обстоятельств опасность столкновения должна считаться существующей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Курсовой угол приближающегося судна заметно не меняется",
             optionTwo = "Курсовой угол приближающегося судна заметно меняется",
             optionThree = "Расстояние до приближающегося судна сокращается",
@@ -4317,7 +4317,7 @@ object MMS {
         val mms_2_2_q33 = Question(
             id = "ММС 2.2.33",
             question = "Как следует подходить на маломерном судне для спасения тонущего при ветреной погоде?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4aad3193,
             optionOne = "За несколько метров от тонущего лечь в дрейф с наветренной стороны",
             optionTwo = "Лечь в дрейф с подветренной стороны и подать спасательный круг",
             optionThree = "По ветру на малом ходу",
@@ -4330,7 +4330,7 @@ object MMS {
         val mms_2_2_q34 = Question(
             id = "ММС 2.2.34",
             question = "Как рекомендуется подходить к месту якорной стоянки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1381b431,
             optionOne = "Не имеет значения",
             optionTwo = "По ветру (течению)",
             optionThree = "При боковом ветре (течении)",
@@ -4343,7 +4343,7 @@ object MMS {
         val mms_2_2_q35 = Question(
             id = "ММС 2.2.35",
             question = "Как следует подходить к аварийному судну, имеющему большой крен на борт?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7094fc9e,
             optionOne = "К носу",
             optionTwo = "К корме",
             optionThree = "К притопленному борту",
@@ -4357,7 +4357,7 @@ object MMS {
         val mms_2_2_q36 = Question(
             id = "ММС 2.2.36",
             question = "Какой из перечисленных способов может применяться для подхода к перевернувшемуся судну для снятия с него людей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e61f0ac6,
             optionOne = "С подветренной стороны под некоторым углом",
             optionTwo = "С наветренной стороны отдать якорь и, потравливая якорный канат (цепь), спускаться к аварийному судну",
             optionThree = "Держаться носом на ветер на небольшом удалении от перевернувшегося судна и подавать людям спасательные средства (круги, концы и др.)",
@@ -4370,7 +4370,7 @@ object MMS {
         val mms_2_2_q37 = Question(
             id = "ММС 2.2.37",
             question = "Какие действия обязан предпринять судоводитель маломерного судна при получении неблагоприятного прогноза (штормовое предупреждение) или появлении явных признаков резкого усиления ветра?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3acab784,
             optionOne = "Выйти на связь с диспетчером ближайшего порта или подразделения МЧС и сообщить о месте нахождения судна для получения указаний",
             optionTwo = "Выставить плавучий якорь, дать малый ход и развернуть судно носом на ветер",
             optionThree = "Дождаться подтверждения полученного прогноза о штормовом предупреждении и после этого принять решение",
@@ -4383,7 +4383,7 @@ object MMS {
         val mms_2_2_q38 = Question(
             id = "ММС 2.2.38",
             question = "Какое действие считается наиболее эффективным для предупреждения чрезмерного сближения, при наличии достаточного водного пространства?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_34557702,
             optionOne = "Постепенное изменение курса",
             optionTwo = "Постепенное изменение скорости",
             optionThree = "Существенное изменение курса",
@@ -4398,7 +4398,7 @@ object MMS {
         val mms_2_2_q39 = Question(
             id = "ММС 2.2.39",
             question = "В каком направлении рекомендуется производить поворот на обратный курс при сильном боковом ветре?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "В любом направлении",
             optionTwo = "На ветер",
             optionThree = "По ветру",
@@ -4411,7 +4411,7 @@ object MMS {
         val mms_2_2_q40 = Question(
             id = "ММС 2.2.40",
             question = "На каком из этих судов (А или Б) при движении по течению правильно производится поворот на обратный курс?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1cddc247,
             optionOne = "На \"А\"",
             optionTwo = "На \"А\" и \"Б\"",
             optionThree = "На \"А\" и \"Б\" неправильно, т.к. не учтено влияние скорости струй течения на корпус и перо руля судна",
@@ -4424,7 +4424,7 @@ object MMS {
         val mms_2_2_q41 = Question(
             id = "ММС 2.2.41",
             question = "Как должен маневрировать судоводитель моторного судна, если при подходе к упавшему за борт с поворотом на 360 градусов не удалось остановиться наветреннее пострадавшего?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3915d327,
             optionOne = "Изменить схему подхода к упавшему за борт с поворотом на 180 град",
             optionTwo = "Повторить подход с разворотом на 360 град",
             optionThree = "Подходить с помощью весел, используя бросательный конец",
@@ -4454,7 +4454,7 @@ object MMS {
         val mms_2_3_q1 = Question(
             id = "ММС 2.3.1",
             question = "Как называется этот якорь?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3d892623,
             optionOne = "Адмиралтейский",
             optionTwo = "Кошка",
             optionThree = "Ледовый",
@@ -4467,7 +4467,7 @@ object MMS {
         val mms_2_3_q2 = Question(
             id = "ММС 2.3.2",
             question = "Какой из этих узлов называется \"рифовый\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ba4ef33e,
             optionOne = "а)",
             optionTwo = "б)",
             optionThree = "в)",
@@ -4480,7 +4480,7 @@ object MMS {
         val mms_2_3_q3 = Question(
             id = "ММС 2.3.3",
             question = "На каком рисунке изображен адмиралтейский якорь?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c453c672,
             optionOne = "а)",
             optionTwo = "б)",
             optionThree = "в)",
@@ -4493,7 +4493,7 @@ object MMS {
         val mms_2_3_q4 = Question(
             id = "ММС 2.3.4",
             question = "На каком из рисунков якорь находится в положении \"панер\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4ff19fb9,
             optionOne = "в)",
             optionTwo = "а)",
             optionThree = "б)",
@@ -4506,7 +4506,7 @@ object MMS {
         val mms_2_3_q5 = Question(
             id = "ММС 2.3.5",
             question = "На каком рисунке изображен якорь Холла?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b05be0a5,
             optionOne = "а)",
             optionTwo = "б)",
             optionThree = "в)",
@@ -4519,7 +4519,7 @@ object MMS {
         val mms_2_3_q6 = Question(
             id = "ММС 2.3.6",
             question = "На каком рисунке изображен якорь Матросова?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b05be0a5,
             optionOne = "а)",
             optionTwo = "б)",
             optionThree = "в)",
@@ -4532,7 +4532,7 @@ object MMS {
         val mms_2_3_q7 = Question(
             id = "ММС 2.3.7",
             question = "Для какой из перечисленных целей применяется удавка?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_208e666d,
             optionOne = "Для закладывания троса на гак",
             optionTwo = "Для закрепления троса за бревно при буксировке",
             optionThree = "Для крепления швартова за кнехты",
@@ -4545,7 +4545,7 @@ object MMS {
         val mms_2_3_q8 = Question(
             id = "ММС 2.3.8",
             question = "Для какой из перечисленных целей применяется шлюпочный узел?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c7ec5f81,
             optionOne = "Для закладывания растительного троса за гак",
             optionTwo = "Для закрепления троса за бревно",
             optionThree = "Для крепления буксирного троса за банку лодки",
@@ -4558,7 +4558,7 @@ object MMS {
         val mms_2_3_q9 = Question(
             id = "ММС 2.3.9",
             question = "Как на этой схеме называется носовой швартовый конец, обозначенный цифрой 3?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_530225dd,
             optionOne = "Поперечный",
             optionTwo = "Прижимной",
             optionThree = "Продольный",
@@ -4571,7 +4571,7 @@ object MMS {
         val mms_2_3_q10 = Question(
             id = "ММС 2.3.10",
             question = "Как на этой схеме называются соответственно швартовные концы, обозначенные цифрами 1 и 5?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_530225dd,
             optionOne = "Носовой продольный и кормовой прижимной",
             optionTwo = "Носовой продольный и кормовой продольный",
             optionThree = "Носовой продольный и кормовой шпринг",
@@ -4585,7 +4585,7 @@ object MMS {
         val mms_2_3_q11 = Question(
             id = "ММС 2.3.11",
             question = "Как на этой схеме соответственно называются швартовные концы, обозначенные цифрами 2 и 4?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_530225dd,
             optionOne = "Носовой прижимной и кормовой продольный",
             optionTwo = "Носовой прижимной и кормовой шпринг",
             optionThree = "Носовой продольный и кормовой шпринг",
@@ -4599,7 +4599,7 @@ object MMS {
         val mms_2_3_q12 = Question(
             id = "ММС 2.3.12",
             question = "Какой из перечисленных способов швартовки маломерного судна к судну более крупных размеров наиболее безопасен?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ca40265c,
             optionOne = "Подход к носовой части дрейфующего судна с его подветренного борта",
             optionTwo = "Подход к средней части дрейфующего судна с его подветренного борта",
             optionThree = "Подход к средней части дрейфующего судна с наветренного борта",
@@ -4612,7 +4612,7 @@ object MMS {
         val mms_2_3_q13 = Question(
             id = "ММС 2.3.13",
             question = "На каком расстоянии от причала (пирса) следует остановить судно (судно не имеет хода относительно воды) параллельно причалу при швартовке с наветренной стороны?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_cabbf27e,
             optionOne = "0,5 - ширины судна",
             optionTwo = "2-3 ширины судна",
             optionThree = "Как можно ближе к причалу",
@@ -4626,7 +4626,7 @@ object MMS {
         val mms_2_3_q14 = Question(
             id = "ММС 2.3.14",
             question = "Какие действия должен предпринять судоводитель в момент дачи переднего хода (включения реверса), чтобы удержать на прямом курсе одновинтовое судно с винтом правого вращения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1381b431,
             optionOne = "Поставить руль прямо",
             optionTwo = "Повернуть руль влево",
             optionThree = "Повернуть руль вправо",
@@ -4641,7 +4641,7 @@ object MMS {
         val mms_2_3_q15 = Question(
             id = "ММС 2.3.15",
             question = "В каких из перечисленных случаев, при длительной стоянке маломерного судна у берега, рекомендуется не становиться \"носом\" в берег, а поставить судно на две растяжки - носовую и кормовую?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4fac8ab7,
             optionOne = "При верховом ветре",
             optionTwo = "При наличии колебаний уровня воды",
             optionThree = "При низовом ветре",
@@ -4654,7 +4654,7 @@ object MMS {
         val mms_2_3_q16 = Question(
             id = "ММС 2.3.16",
             question = "Какое из этих судов ошвартовано к берегу правильно?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_486e4b04,
             optionOne = "\"А\", \"Б\"",
             optionTwo = "\"А\" и \"Г\"",
             optionThree = "\"Б\"",
@@ -4669,7 +4669,7 @@ object MMS {
         val mms_2_3_q17 = Question(
             id = "ММС 2.3.17",
             question = "Какой из перечисленных грунтов, наиболее предпочтителен при выборе места якорной стоянки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3571f914,
             optionOne = "Вязкий глинистый",
             optionTwo = "Гравий, песок",
             optionThree = "Скалистый",
@@ -4684,7 +4684,7 @@ object MMS {
         val mms_2_3_q18 = Question(
             id = "ММС 2.3.18",
             question = "Как рекомендуется подходить к месту якорной стоянки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1381b431,
             optionOne = "Не имеет значения",
             optionTwo = "По ветру (течению)",
             optionThree = "При боковом ветре (течении)",
@@ -4697,7 +4697,7 @@ object MMS {
         val mms_2_3_q19 = Question(
             id = "ММС 2.3.19",
             question = "Какой минимальный радиус окружности с центром в месте отдачи якоря должен быть у акватории, для обеспечения безопасной якорной стоянки судна, длиной 20 метров, при условии, что длина вытравленной якорной цепи равна 18 м, а глубина 6 м?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3571f914,
             optionOne = "40 м",
             optionTwo = "24 м",
             optionThree = "58 м",
@@ -4718,7 +4718,7 @@ object MMS {
         val mms_2_3_q20 = Question(
             id = "ММС 2.3.20",
             question = "Какую минимальную длину якорной цепи (в пропорции к глубине) рекомендуется вытравить при хорошем грунте и благоприятной погоде?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3571f914,
             optionOne = "2",
             optionTwo = "3",
             optionThree = "4",
@@ -4734,7 +4734,7 @@ object MMS {
         val mms_2_3_q21 = Question(
             id = "ММС 2.3.21",
             question = "Какую минимальную длину комбинированного с цепью, пропорционально глубине, якорного каната рекомендуется вытравить при хорошем грунте и благоприятной погоде?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3571f914,
             optionOne = "2",
             optionTwo = "3",
             optionThree = "4",
@@ -4750,7 +4750,7 @@ object MMS {
         val mms_2_3_q22 = Question(
             id = "ММС 2.3.22",
             question = "Какой узел наилучшим образом подходит для изготовления незатягивающейся петли?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Беседочный",
             optionTwo = "Простой штык",
             optionThree = "Рыбацкий штык",
@@ -4763,7 +4763,7 @@ object MMS {
         val mms_2_3_q23 = Question(
             id = "ММС 2.3.23",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5195b13a,
             optionOne = "Беседочный",
             optionTwo = "Буйрепный",
             optionThree = "Восьмерка",
@@ -4776,7 +4776,7 @@ object MMS {
         val mms_2_3_q24 = Question(
             id = "ММС 2.3.24",
             question = "Какой узел не может быть применен для крепления конца за рым?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Беседочный",
             optionTwo = "Выбленочный",
             optionThree = "Рыбацкий штык",
@@ -4789,7 +4789,7 @@ object MMS {
         val mms_2_3_q25 = Question(
             id = "ММС 2.3.25",
             question = "Какой узел или заделка троса изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6323aac3,
             optionOne = "Простая марка",
             optionTwo = "Прошивная марка",
             optionThree = "Рыбацкий штык",
@@ -4802,7 +4802,7 @@ object MMS {
         val mms_2_3_q26 = Question(
             id = "ММС 2.3.26",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c1a419ec,
             optionOne = "Рыбацкий штык",
             optionTwo = "Сдвижной штык",
             optionThree = "Штык с обносом",
@@ -4815,7 +4815,7 @@ object MMS {
         val mms_2_3_q27 = Question(
             id = "ММС 2.3.27",
             question = "Отметьте узел, который может быть завязан только вокруг какого-либо предмета.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Беседочный",
             optionTwo = "Выбленочный",
             optionThree = "Прямой",
@@ -4828,7 +4828,7 @@ object MMS {
         val mms_2_3_q28 = Question(
             id = "ММС 2.3.28",
             question = "Вы оставляете судно на стоянке на длительное время. Какой узел наиболее надежен для крепления швартовов к швартовым рымам?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Беседочный",
             optionTwo = "Брамшкотовый",
             optionThree = "Выбленочный",
@@ -4841,7 +4841,7 @@ object MMS {
         val mms_2_3_q29 = Question(
             id = "ММС 2.3.29",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_05257f0e,
             optionOne = "Восьмерка",
             optionTwo = "Прямой",
             optionThree = "Рифовый",
@@ -4854,7 +4854,7 @@ object MMS {
         val mms_2_3_q30 = Question(
             id = "ММС 2.3.30",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_9fee5f55,
             optionOne = "Выбленочный",
             optionTwo = "Прямой",
             optionThree = "Рифовый",
@@ -4867,7 +4867,7 @@ object MMS {
         val mms_2_3_q31 = Question(
             id = "ММС 2.3.31",
             question = "Какой узел или заделка троса изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c6828670,
             optionOne = "Простая марка",
             optionTwo = "Прошивная марка",
             optionThree = "Рыбацкий штык",
@@ -4880,7 +4880,7 @@ object MMS {
         val mms_2_3_q32 = Question(
             id = "ММС 2.3.32",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_0f410953,
             optionOne = "Рыбацкий штык",
             optionTwo = "Сваечный",
             optionThree = "Сдвижной штык",
@@ -4893,7 +4893,7 @@ object MMS {
         val mms_2_3_q33 = Question(
             id = "ММС 2.3.33",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_88ed3ce7,
             optionOne = "Простой штык",
             optionTwo = "Рыбацкий штык",
             optionThree = "Штык с обносом",
@@ -4906,7 +4906,7 @@ object MMS {
         val mms_2_3_q34 = Question(
             id = "ММС 2.3.34",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6481c9c9,
             optionOne = "Рыбацкий штык",
             optionTwo = "Сдвижной штык",
             optionThree = "Удавка со шлагом",
@@ -4919,7 +4919,7 @@ object MMS {
         val mms_2_3_q35 = Question(
             id = "ММС 2.3.35",
             question = "Какой узел или заделка троса изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2c5c1e1d,
             optionOne = "Простая марка",
             optionTwo = "Прошивная марка",
             optionThree = "Рыбацкий штык",
@@ -4932,7 +4932,7 @@ object MMS {
         val mms_2_3_q36 = Question(
             id = "ММС 2.3.36",
             question = "Какой узел предназначен для временного удержания конца под нагрузкой при помощи небольшого дополнительного конца?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Выбленочный",
             optionTwo = "Рифовый",
             optionThree = "Сваечный",
@@ -4945,7 +4945,7 @@ object MMS {
         val mms_2_3_q37 = Question(
             id = "ММС 2.3.37",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_75d7d139,
             optionOne = "Сваечный",
             optionTwo = "Сдвижной штык",
             optionThree = "Стопорный",
@@ -4958,7 +4958,7 @@ object MMS {
         val mms_2_3_q38 = Question(
             id = "ММС 2.3.38",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1d69a427,
             optionOne = "Беседочный",
             optionTwo = "Брамшкотовый",
             optionThree = "Буйрепный",
@@ -4971,7 +4971,7 @@ object MMS {
         val mms_2_3_q39 = Question(
             id = "ММС 2.3.39",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e826c8a8,
             optionOne = "Рыбацкий штык",
             optionTwo = "Сваечный",
             optionThree = "Сдвижной штык",
@@ -4984,7 +4984,7 @@ object MMS {
         val mms_2_3_q40 = Question(
             id = "ММС 2.3.40",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e98b68f5,
             optionOne = "Буйрепный",
             optionTwo = "Восьмерка",
             optionThree = "Рифовый",
@@ -4997,7 +4997,7 @@ object MMS {
         val mms_2_3_q41 = Question(
             id = "ММС 2.3.41",
             question = "Какой узел изображен на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f1c2ab7b,
             optionOne = "Буйрепный",
             optionTwo = "Восьмерка",
             optionThree = "Выбленочный",
@@ -5033,7 +5033,7 @@ object MMS {
         val mms_2_4_q1 = Question(
             id = "ММС 2.4.1",
             question = "Какие действия после получения штормового предупреждения обязан предпринять судоводитель, если встречи со штормом не избежать?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2b69f75d,
             optionOne = "При наличии радиостанции - установить и поддерживать связь с берегом и спасательными службами",
             optionTwo = "Проверить надежность крепления грузов, подготовить к использованию сигналы бедствия, плавучий якорь, водоотливные и спасательные средства",
             optionThree = "Провести инструктаж пассажиров и выдать всем спасательные жилеты",
@@ -5046,7 +5046,7 @@ object MMS {
         val mms_2_4_q2 = Question(
             id = "ММС 2.4.2",
             question = "Какие действия обязан предпринять судоводитель маломерного судна при получении неблагоприятного прогноза (штормовое предупреждение) или появлении явных признаков резкого усиления ветра?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3acab784,
             optionOne = "Выйти на связь с диспетчером ближайшего порта или подразделения МЧС и сообщить о месте нахождения судна для получения указаний",
             optionTwo = "Выставить плавучий якорь, дать малый ход и развернуть судно носом на ветер",
             optionThree = "Дождаться подтверждения полученного прогноза о штормовом предупреждении и после этого принять решение",
@@ -5059,7 +5059,7 @@ object MMS {
         val mms_2_4_q3 = Question(
             id = "ММС 2.4.3",
             question = "Какие из перечисленных причин могут привести к потере остойчивости маломерного судна и его опрокидыванию даже при штилевой погоде?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6293b79a,
             optionOne = "Неправильное размещение грузов",
             optionTwo = "Неправильное размещение грузов; Сидение людей на борту; Произвольное перемещение людей на судне",
             optionThree = "Произвольное перемещение людей на судне",
@@ -5072,7 +5072,7 @@ object MMS {
         val mms_2_4_q4 = Question(
             id = "ММС 2.4.4",
             question = "Какие из перечисленных действий следует предпринять на маломерном судне при получении прогноза о надвигающемся шторме?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_37cf0176,
             optionOne = "Дождаться подтверждения прогноза при следующей передаче метеопрогноза и принять решение",
             optionTwo = "Запросить по радиостанции подтверждения полученного прогноза в ближайшем подразделении МЧС и после ответа, принять решение",
             optionThree = "Следовать оптимальным курсом и скоростью к месту базирования или к ближайшему безопасному месту",
@@ -5085,7 +5085,7 @@ object MMS {
         val mms_2_4_q5 = Question(
             id = "ММС 2.4.5",
             question = "Что должен предпринять судоводитель маломерного судна при обнаружении неисправности якорного устройства?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_10721bbf,
             optionOne = "Прекратить эксплуатацию судна",
             optionTwo = "Продолжить эксплуатацию при договоренности с базой о предоставлении места для швартовки",
             optionThree = "Продолжить эксплуатацию при наличии благоприятного прогноза погоды, избегая постановки на якорь",
@@ -5098,7 +5098,7 @@ object MMS {
         val mms_2_4_q6 = Question(
             id = "ММС 2.4.6",
             question = "Что должен предпринять судоводитель маломерного судна, если его швартовное оборудование не обеспечивают удержание маломерного судна при стоянке у пирсов, причалов и шлюзовании?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_fe004847,
             optionOne = "Прекратить эксплуатацию судна",
             optionTwo = "Продолжить эксплуатацию при наличии дополнительных швартовных тросов",
             optionThree = "Продолжить эксплуатацию при наличии работоспособного якорного устройства",
@@ -5111,7 +5111,7 @@ object MMS {
         val mms_2_4_q7 = Question(
             id = "ММС 2.4.7",
             question = "Какое удлинение каната из синтетического материала под рабочей нагрузкой является основанием для запрещения его использования, если после снятия нагрузки он не восстанавливает свою первоначальную длину?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b1e63ce3,
             optionOne = "Более чем на 10%",
             optionTwo = "Более чем на 20%",
             optionThree = "Более чем на 25%",
@@ -5124,7 +5124,7 @@ object MMS {
         val mms_2_4_q8 = Question(
             id = "ММС 2.4.8",
             question = "Какие канаты могут быть использованы в качестве стопоров и схваток?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b1e63ce3,
             optionOne = "Все перечисленные",
             optionTwo = "Растительные",
             optionThree = "Синтетические",
@@ -5137,7 +5137,7 @@ object MMS {
         val mms_2_4_q9 = Question(
             id = "ММС 2.4.9",
             question = "Какой фактор, помимо человеческого, является основным, способствующим возникновению происшествий при управлении маломерным судном?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Обстоятельств непреодолимой силы",
             optionTwo = "Организационно-технологический",
             optionThree = "Природный",
@@ -5150,7 +5150,7 @@ object MMS {
         val mms_2_4_q10 = Question(
             id = "ММС 2.4.10",
             question = "При каком из перечисленных обстоятельств опасность столкновения должна считаться существующей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Курсовой угол приближающегося судна заметно не меняется",
             optionTwo = "Курсовой угол приближающегося судна заметно меняется",
             optionThree = "Расстояние до приближающегося судна сокращается",
@@ -5169,7 +5169,7 @@ object MMS {
         val mms_2_4_q11 = Question(
             id = "ММС 2.4.11",
             question = "К чему может привести совместное влияние на судно ветра и волнения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "К потере непотопляемости",
             optionTwo = "К потере остойчивости",
             optionThree = "К потере плавучести",
@@ -5184,7 +5184,7 @@ object MMS {
         val mms_2_4_q12 = Question(
             id = "ММС 2.4.12",
             question = "К чему может привести недостаточность скорости судна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "К потере непотопляемости",
             optionTwo = "К потере остойчивости",
             optionThree = "К потере плавучести",
@@ -5199,7 +5199,7 @@ object MMS {
         val mms_2_4_q13 = Question(
             id = "ММС 2.4.13",
             question = "В каком из перечисленных случаев обгона наиболее опасен эффект присасывания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Если обгоняющее судно крупнее обгоняемого",
             optionTwo = "Если обгоняемое и обгоняющее суда одинаковых размеров",
             optionThree = "Если обгоняемое судно крупнее обгоняющего",
@@ -5213,7 +5213,7 @@ object MMS {
         val mms_2_4_q14 = Question(
             id = "ММС 2.4.14",
             question = "Какой из маневров в момент обгона служит снижению действия эффекта присасывания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Оба судна следуют параллельными курсами",
             optionTwo = "Одно из судов несколько уклонится в сторону другого судна",
             optionThree = "Одно из судов несколько уклонится во внешнюю сторону",
@@ -5227,7 +5227,7 @@ object MMS {
         val mms_2_4_q15 = Question(
             id = "ММС 2.4.15",
             question = "Как называется явление образования у кромок лопастей газовых пузырьков?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Гидравлика",
             optionTwo = "Гравитация",
             optionThree = "Девиация",
@@ -5260,7 +5260,7 @@ object MMS {
         val mms_2_5_q1 = Question(
             id = "ММС 2.5.1",
             question = "Какие действия следует предпринять перед вынужденной посадкой судна на грунт (мель)?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a93b5704,
             optionOne = "Остановить двигатель и при касании грунта носовой частью дать задний ход",
             optionTwo = "Остановить двигатель, отдать с носа якорь и травить якорную цепь до касания грунта",
             optionThree = "Остановить двигатель, отдать якорь с кормы, травить канат до касания грунта носом и после посадки судна на мель - выбрать слабину каната",
@@ -5277,7 +5277,7 @@ object MMS {
         val mms_2_5_q2 = Question(
             id = "ММС 2.5.2",
             question = "В каком случае оправдана преднамеренная посадка судна на мель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a93b5704,
             optionOne = "При затруднениях при постановке на якорь",
             optionTwo = "При невозможности экипажа самостоятельно справиться с поступающей на судно водой",
             optionThree = "При необходимости уступить дорогу",
@@ -5295,7 +5295,7 @@ object MMS {
         val mms_2_5_q3 = Question(
             id = "ММС 2.5.3",
             question = "Какая ошибка судоводителя может привести к посадке судна на мель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Пренебрежение рекомендациями лоции",
             optionTwo = "Небрежность при опознании берега и средств навигационного обеспечения",
             optionThree = "Плавание по буям без определения места судна по береговым ориентирам",
@@ -5314,7 +5314,7 @@ object MMS {
         val mms_2_5_q4 = Question(
             id = "ММС 2.5.4",
             question = "Что необходимо использовать для предотвращения посадки на мель во время тумана или в ночное время, находясь вблизи берега или отмелей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Бинокль",
             optionTwo = "Лот (эхолот)",
             optionThree = "Плавучий якорь",
@@ -5327,7 +5327,7 @@ object MMS {
         val mms_2_5_q5 = Question(
             id = "ММС 2.5.5",
             question = "Какие действия необходимо произвести, если посадка на мель неизбежна?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Закрепить руль в прямом положении и дать двигателю «полный назад»",
             optionTwo = "Положить руль на борт и двигателем «полный вперед» пытаться отвернуть в сторону",
             optionThree = "Остановить двигатель и с учетом течения выруливать в сторону от мелководья",
@@ -5340,7 +5340,7 @@ object MMS {
         val mms_2_5_q6 = Question(
             id = "ММС 2.5.6",
             question = "В случае плохой видимости или сильного прижимного ветра, относящего судно в сторону берега, следует…",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Лечь в дрейф и подавать сигналы безопасности",
             optionTwo = "Слегка повернув руль на ветер применить плавучий якорь",
             optionThree = "Стать на якорь и дождаться улучшения условий плавания",
@@ -5353,7 +5353,7 @@ object MMS {
         val mms_2_5_q7 = Question(
             id = "ММС 2.5.7",
             question = "Что из перечисленного может применяться для снятия судна с мели?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Буксир",
             optionTwo = "Двигатель",
             optionThree = "Двигатель; Якорь; Буксир",
@@ -5380,7 +5380,7 @@ object MMS {
         val mms_3_q1 = Question(
             id = "ММС 3.1",
             question = "Какое действие считается наиболее эффективным для предупреждения чрезмерного сближения, при наличии достаточного водного пространства?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_34557702,
             optionOne = "Постепенное изменение курса",
             optionTwo = "Постепенное изменение скорости",
             optionThree = "Существенное изменение курса",
@@ -5395,7 +5395,7 @@ object MMS {
         val mms_3_q2 = Question(
             id = "ММС 3.2",
             question = "Где рекомендуется находиться при столкновении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7661f3bd,
             optionOne = "В любом из перечисленных мест одинаково опасно",
             optionTwo = "В тендере (тузике)",
             optionThree = "Во внутренних помещениях",
@@ -5408,7 +5408,7 @@ object MMS {
         val mms_3_q3 = Question(
             id = "ММС 3.3",
             question = "Какова основная опасность, возникающая при приближении к идущему судну большого размера?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_1a4d5005,
             optionOne = "Влияние волн, возникающих при движении большого судна",
             optionTwo = "Влияние эффекта присасывания",
             optionThree = "Падение с большого судна грузов или тяжелых предметов",
@@ -5422,7 +5422,7 @@ object MMS {
         val mms_3_q4 = Question(
             id = "ММС 3.4",
             question = "В каком случае после столкновения капитан должен оказать помощь другому судну, его экипажу и пассажирам",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7661f3bd,
             optionOne = "В любом случае",
             optionTwo = "Если его судно повреждено меньше другого",
             optionThree = "Если он виновен в столкновении",
@@ -5435,7 +5435,7 @@ object MMS {
         val mms_3_q5 = Question(
             id = "ММС 3.5",
             question = "Имеет ли право капитан судна покинуть место столкновения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7661f3bd,
             optionOne = "Да, в любом случае",
             optionTwo = "Да, если другое судно в состоянии безопасно продолжить плавание",
             optionThree = "Да, если другое судно осталось на плаву",
@@ -5452,7 +5452,7 @@ object MMS {
         val mms_3_q6 = Question(
             id = "ММС 3.6",
             question = "Что из перечисленного необходимо использовать для привлечения внимания другого судна при угрозе столкновения в ночное время?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Белые ракеты и белые фальшфейеры",
             optionTwo = "Дымовые плавучие шашки",
             optionThree = "Красные ракеты и белые фальшфейеры",
@@ -5465,7 +5465,7 @@ object MMS {
         val mms_3_q7 = Question(
             id = "ММС 3.7",
             question = "Что из перечисленного необходимо использовать для привлечения внимания другого судна при угрозе столкновения в дневное время?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Белые ракеты",
             optionTwo = "Дымовые плавучие шашки",
             optionThree = "Колокол или рожок (туманный горн)",
@@ -5479,7 +5479,7 @@ object MMS {
         val mms_3_q8 = Question(
             id = "ММС 3.8",
             question = "Какие действия необходимо произвести, если после столкновения судно осталось на плаву?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_7661f3bd,
             optionOne = "Занести информацию о действиях до/при столкновении, а также перечень выявленных повреждений судна в судовой журнал",
             optionTwo = "По взаимному согласию капитанов произвести совместный осмотр полученных при столкновении повреждений, составить и подписать двухсторонний акт",
             optionThree = "Проинформировать о происшествии судовладельца (чартерную компанию)",
@@ -5494,7 +5494,7 @@ object MMS {
         val mms_3_q9 = Question(
             id = "ММС 3.9",
             question = "Какие знаки должно выставить маломерное судно длиной более 12 м при посадке на мель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Два шара",
             optionTwo = "Маломерное судно не обязано выставлять знаки на мели",
             optionThree = "Три шара",
@@ -5508,7 +5508,7 @@ object MMS {
         val mms_3_q10 = Question(
             id = "ММС 3.10",
             question = "Какие знаки должно выставить маломерное судно длиной менее 12 м при посадке на мель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3379b0aa,
             optionOne = "Два шара",
             optionTwo = "Маломерное судно длиной менее 12 м не обязано выставлять знаки на мели",
             optionThree = "Три шара",
@@ -5526,7 +5526,7 @@ object MMS {
         val mms_3_q11 = Question(
             id = "ММС 3.11",
             question = "Какие огни должно выставить маломерное судно длиной менее 12 м при посадке на мель?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Белый круговой",
             optionTwo = "Белый круговой и два красных круговых",
             optionThree = "Белый круговой и красный круговой",
@@ -5541,7 +5541,7 @@ object MMS {
         val mms_3_q12 = Question(
             id = "ММС 3.12",
             question = "Какие звуковые сигналы свистком должно подавать маломерное судно на мели в условиях ограниченной видимости для предупреждения приближающихся судов о своем местонахождении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Маломерное судно не обязано подавать звуковые сигналы",
             optionTwo = "Один короткий, один продолжительный и один короткий",
             optionThree = "Один продолжительный",
@@ -5556,7 +5556,7 @@ object MMS {
         val mms_3_q13 = Question(
             id = "ММС 3.13",
             question = "Какие звуковые сигналы должно подавать маломерное судно длиной менее 12 м на мели в условиях ограниченной видимости для предупреждения приближающихся судов о своем местонахождении?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Один продолжительный",
             optionTwo = "Один продолжительный и два коротких",
             optionThree = "Судно длиной менее 12 м не обязано подавать звуковые сигналы",
@@ -5571,7 +5571,7 @@ object MMS {
         val mms_3_q14 = Question(
             id = "ММС 3.14",
             question = "Что, помимо выставления огней и знаков, должен сделать капитан судна, если судно село на мель на судовом ходу или поблизости от него?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_0e68ca47,
             optionOne = "Зажечь плавучую дымовую шашку",
             optionTwo = "Организовать покидание судна",
             optionThree = "Подать сигнал бедствия",
@@ -5584,7 +5584,7 @@ object MMS {
         val mms_3_q15 = Question(
             id = "ММС 3.15",
             question = "Какие знаки должно выставить маломерное судно при посадке на мель на судовом ходу или поблизости от него?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3379b0aa,
             optionOne = "Два шара",
             optionTwo = "Маломерное судно не обязано выставлять знаки на мели",
             optionThree = "Три шара",
@@ -5598,7 +5598,7 @@ object MMS {
         val mms_3_q16 = Question(
             id = "ММС 3.16",
             question = "Какие огни должно выставить маломерное судно при посадке на мель на судовом ходу или поблизости от него?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Белый круговой",
             optionTwo = "Белый круговой и красный круговой",
             optionThree = "Белый круговой и три красных круговых",
@@ -5613,7 +5613,7 @@ object MMS {
         val mms_3_q17 = Question(
             id = "ММС 3.17",
             question = "Какие звуковые сигналы должно подавать маломерное судно при посадке на мель на судовом ходу или поблизости от него в условиях ограниченной видимости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Один короткий, один продолжительный и один короткий звуки",
             optionTwo = "Один продолжительный звук",
             optionThree = "Один продолжительный и два коротких звука",
@@ -5645,7 +5645,7 @@ object MMS {
         val mms_4_q1 = Question(
             id = "ММС 4.1",
             question = "Что должен предпринять член экипажа маломерного судна, если он увидел упавшего за борт человека?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_468ffc3e,
             optionOne = "Объявить: \"Человек за бортом\" и показывать рукой в направлении места, где находится упавший",
             optionTwo = "Объявить: \"Человек за бортом\"; бросить за борт в сторону падения спасательный круг и показывать рукой в направлении места, где находится упавший; вести наблюдение за ним",
             optionThree = "Объявить: \"Человек за бортом\"; бросить за борт спасательный круг; далее действовать по указаниям судоводителя",
@@ -5658,7 +5658,7 @@ object MMS {
         val mms_4_q2 = Question(
             id = "ММС 4.2",
             question = "Что следует сделать в первую очередь для оказания помощи человеку в бессознательном состоянии, без видимых наружных повреждений?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_811c634d,
             optionOne = "Подложить под ноги валик",
             optionTwo = "Поднести к носу вату, смоченную нашатырным спиртом, приподнять голову",
             optionThree = "Проверить наличие дыхания и пульса для определения дальнейших действий",
@@ -5671,7 +5671,7 @@ object MMS {
         val mms_4_q3 = Question(
             id = "ММС 4.3",
             question = "Что следует сделать в первую очередь для оказания помощи человеку, находящемуся в состоянии шока?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b3ac9654,
             optionOne = "Обрызгать лицо холодной водой, энергично растереть кожу лица, дать понюхать нашатырный спирт",
             optionTwo = "Придать положение лежа или полусидя, на лоб и затылок положить холодные примочки",
             optionThree = "Проверить пульс и измерить температуру тела",
@@ -5695,7 +5695,7 @@ object MMS {
         val mms_4_q4 = Question(
             id = "ММС 4.4",
             question = "Выберите правильный способ остановки артериального кровотечения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_51c8b375,
             optionOne = "Зажать рукой сосуды выше места ранения",
             optionTwo = "Наложить давящую повязку на место ранения",
             optionThree = "Наложить жгут выше места ранения",
@@ -5709,7 +5709,7 @@ object MMS {
         val mms_4_q5 = Question(
             id = "ММС 4.5",
             question = "В каком случае для остановки кровотечения следует накладывать жгут?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a7c6f723,
             optionOne = "Если не удается остановить кровотечение наложением давящей повязки",
             optionTwo = "Если не удается остановить кровотечение приданием пораженному участку возвышенного положения",
             optionThree = "Если не удается остановить кровотечение прижатием салфетки",
@@ -5722,7 +5722,7 @@ object MMS {
         val mms_4_q6 = Question(
             id = "ММС 4.6",
             question = "Что следует сделать для оказания первой медицинской помощи при переломе ключицы?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_71e5ab57,
             optionOne = "Наложить две шины на плечо",
             optionTwo = "Оставить руку опущенной вниз",
             optionThree = "Подвесить руку на косынке",
@@ -5735,7 +5735,7 @@ object MMS {
         val mms_4_q7 = Question(
             id = "ММС 4.7",
             question = "Выберите правильный способ остановки венозного кровотечения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4f0b8d55,
             optionOne = "Зажать рукой сосуды выше места ранения",
             optionTwo = "Наложить давящую повязку на место ранения",
             optionThree = "Наложить жгут выше места ранения",
@@ -5749,7 +5749,7 @@ object MMS {
         val mms_4_q8 = Question(
             id = "ММС 4.8",
             question = "Выберите правильный способ применения бактерицидной салфетки?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_eb40a5a9,
             optionOne = "Наложить бактерицидную повязку, предварительно обработав ее раствором йода",
             optionTwo = "Не обрабатывая раны, наложить бактерицидную повязку и зафиксировать ее",
             optionThree = "Обработать рану раствором йода, наложить бактерицидную повязку",
@@ -5762,7 +5762,7 @@ object MMS {
         val mms_4_q9 = Question(
             id = "ММС 4.9",
             question = "Выберите правильный способ наложения шины при переломе костей голени?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_56618cf6,
             optionOne = "Наложить две шины - с наружной и внутренней сторон ноги, от стопы до середины бедра с фиксацией голеностопного и коленного суставов",
             optionTwo = "Наложить шину на голень",
             optionThree = "Наложить шину с внутренней стороны ноги, от стопы до середины бедра с фиксацией голеностопного и коленного суставов",
@@ -5775,7 +5775,7 @@ object MMS {
         val mms_4_q10 = Question(
             id = "ММС 4.10",
             question = "Что необходимо выполнить при искусственной вентиляции легких \"рот в рот\"?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5dd17064,
             optionOne = "Выдвинуть подбородок пострадавшего вперед при запрокинутой на затылок голове",
             optionTwo = "Наклонить вперед голову пострадавшего",
             optionThree = "Повернуть голову пострадавшего на правый бок",
@@ -5788,7 +5788,7 @@ object MMS {
         val mms_4_q11 = Question(
             id = "ММС 4.11",
             question = "Выберите правильную последовательность действий, в которой следует оказывать помощь пострадавшему, находящемуся в бессознательном состоянии, если у него отсутствуют дыхание и пульс?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_4ef79b92,
             optionOne = "Искусственная вентиляция легких",
             optionTwo = "Искусственная вентиляция легких, наружный массаж сердца, освобождение дыхательных путей",
             optionThree = "Наружный массаж сердца, освобождение дыхательных путей, искусственная вентиляция легких",
@@ -5810,7 +5810,7 @@ object MMS {
         val mms_4_q12 = Question(
             id = "ММС 4.12",
             question = "Что следует сделать для оказания первой медицинской помощи при переломе плечевой кости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_056c7c19,
             optionOne = "Наложить повязку только на поврежденное плечо",
             optionTwo = "Наложить шину с наружной стороны плеча и туго прибинтовать руку к туловищу",
             optionThree = "Наложить шины с наружной и внутренней стороны плеча, подложить валик из мягкой ткани в подмышечную область, согнуть руку в локтевом суставе и зафиксировать косыночными повязками через шею и вокруг туловища",
@@ -5824,7 +5824,7 @@ object MMS {
         val mms_4_q13 = Question(
             id = "ММС 4.13",
             question = "Что необходимо выполнить при носовом кровотечении у пострадавшего?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_ac376a57,
             optionOne = "Положить пострадавшего на живот и обеспечить охлаждение переносицы",
             optionTwo = "Положить пострадавшего на спину",
             optionThree = "Придать пострадавшему положение полусидя, голову наклонить вперед, обеспечить охлаждение переносицы",
@@ -5838,7 +5838,7 @@ object MMS {
         val mms_4_q14 = Question(
             id = "ММС 4.14",
             question = "Какими признаками характеризуется \"синее\" утопление?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f1bf753d,
             optionOne = "Отсутствие дыхания и покров губ фиолетово-синей окраски",
             optionTwo = "Цвет кожи на кончиках пальцев фиолетово-синей окраски",
             optionThree = "Цвет кожи на ушных раковинах пострадавшего фиолетово-синей окраски",
@@ -5851,7 +5851,7 @@ object MMS {
         val mms_4_q15 = Question(
             id = "ММС 4.15",
             question = "Какова должна быть, в среднем, глубина надавливаний на грудную клетку при проведении сердечно-легочной реанимации для взрослого человека?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_22de5a72,
             optionOne = "10-12 см",
             optionTwo = "3-4 см",
             optionThree = "5-6 см",
@@ -5864,7 +5864,7 @@ object MMS {
         val mms_4_q16 = Question(
             id = "ММС 4.16",
             question = "Какова должна быть частота надавливаний на грудную клетку при проведении сердечно-легочной реанимации для взрослого человека?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_31dc2314,
             optionOne = "100-120 надавливаний в минуту",
             optionTwo = "80-100 надавливаний в минуту",
             optionThree = "Более 120 надавливаний в минуту",
@@ -5877,7 +5877,7 @@ object MMS {
         val mms_4_q17 = Question(
             id = "ММС 4.17",
             question = "Для чего применяется приведенный на иллюстрации прием?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_e53c67b3,
             optionOne = "Для определения наличия дыхания",
             optionTwo = "Для определения наличия повреждения трахеи",
             optionThree = "Для определения частоты дыхания",
@@ -5890,7 +5890,7 @@ object MMS {
         val mms_4_q18 = Question(
             id = "ММС 4.18",
             question = "Какой из перечисленных признаков является основным признаком перелома конечностей?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d4c55a53,
             optionOne = "Ограничение подвижности",
             optionTwo = "Бледность тканей",
             optionThree = "Болевые ощущения",
@@ -5910,7 +5910,7 @@ object MMS {
         val mms_4_q19 = Question(
             id = "ММС 4.19",
             question = "Какой признак является основным признаком травмы позвоночника?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5b6d93bb,
             optionOne = "Отсутствие движения и чувствительности в нижних конечностях",
             optionTwo = "Повышенное артериальное давление",
             optionThree = "Отсутствие сознания",
@@ -5925,7 +5925,7 @@ object MMS {
         val mms_4_q20 = Question(
             id = "ММС 4.20",
             question = "Какой способ транспортировки является предпочтительным при переломе позвоночника?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_5b6d93bb,
             optionOne = "Все перечисленные способы одинаково допустимы",
             optionTwo = "На мягких носилках",
             optionThree = "На плоской твердой поверхности",
@@ -5938,7 +5938,7 @@ object MMS {
         val mms_4_q21 = Question(
             id = "ММС 4.21",
             question = "Определите основной признак ушиба головного мозга.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f788c476,
             optionOne = "Неравенство размеров зрачков",
             optionTwo = "Потеря памяти",
             optionThree = "Спутанность сознания",
@@ -5953,7 +5953,7 @@ object MMS {
         val mms_4_q22 = Question(
             id = "ММС 4.22",
             question = "Определите основной признак ожога верхних дыхательных путей.",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_aa0cf77a,
             optionOne = "Кашель с черной мокротой",
             optionTwo = "Осиплость голоса",
             optionThree = "Отсутствие сознания",
@@ -5968,7 +5968,7 @@ object MMS {
         val mms_4_q23 = Question(
             id = "ММС 4.23",
             question = "Определите правильный порядок действий по оказанию первой помощи при гипотермии?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_b338e933,
             optionOne = "Помещение в теплое место, раздевание, укутывание, согревание",
             optionTwo = "Раздевание, массирование конечностей",
             optionThree = "Раздевание, прием теплого питья, массирование конечностей",
@@ -5984,7 +5984,7 @@ object MMS {
         val mms_4_q24 = Question(
             id = "ММС 4.24",
             question = "Что необходимо сделать при гипертермии?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6e81d44f,
             optionOne = "Опустить пострадавшего за борт",
             optionTwo = "Перенести пострадавшего в прохладное помещение и укрыть влажной тканью. Напоить прохладной водой",
             optionThree = "Перенести пострадавшего в прохладное помещение и укрыть влажной тканью. Напоить теплым чаем",
@@ -6000,7 +6000,7 @@ object MMS {
         val mms_4_q25 = Question(
             id = "ММС 4.25",
             question = "Что необходимо сделать для оказания первой помощи при порезах?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_fea30c46,
             optionOne = "Наложить давящую повязку",
             optionTwo = "Наложить жгут выше пореза, забинтовать",
             optionThree = "Промыть порез перекисью водорода, далее физиологическим раствором и наложить асептическую повязку",
@@ -6013,7 +6013,7 @@ object MMS {
         val mms_4_q26 = Question(
             id = "ММС 4.26",
             question = "Что необходимо сделать для оказания первой помощи извлеченному из воды человеку без сознания?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_894a663e,
             optionOne = "Оценить наличие пульса и дыхания. Произвести реанимационные мероприятия. Согреть",
             optionTwo = "Очистить верхние дыхательные пути. Согреть",
             optionThree = "Согреть",
@@ -6026,7 +6026,7 @@ object MMS {
         val mms_4_q27 = Question(
             id = "ММС 4.27",
             question = "Какие мероприятия не рекомендуется выполнять при первичном лечении ожогов?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_beccbb0b,
             optionOne = "Бинтовать поврежденную область",
             optionTwo = "Отрывать прилипшую к коже одежду",
             optionThree = "Охлаждать холодной водой поврежденную область",
@@ -6040,7 +6040,7 @@ object MMS {
         val mms_4_q28 = Question(
             id = "ММС 4.28",
             question = "Какова цель придания пострадавшему восстановительной позиции, приведенной на рисунке?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_2cb9fc0b,
             optionOne = "Обеспечение комфортного положения пострадавшему",
             optionTwo = "Оценка состояния пострадавшего, облегчение дыхания и сердцебиения",
             optionThree = "Оценка состояния, восстановление притока крови к голове",
@@ -6075,7 +6075,7 @@ object MMS {
         val mms_5_q1 = Question(
             id = "ММС 5.1",
             question = "Какие операции необходимо производить с мусором, пищевыми отходами и другими загрязняющими окружающую среду веществами?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Не допускать накопления мусора и сбрасывать его за борт малыми порциями",
             optionTwo = "Не допускать накопления мусора и сжигать его малыми порциями",
             optionThree = "Сохранять на судне и сбрасывать на берегу, вдали от населенных пунктов",
@@ -6088,7 +6088,7 @@ object MMS {
         val mms_5_q2 = Question(
             id = "ММС 5.2",
             question = "Что необходимо предпринять в случае обнаружении подтёков топлива во время осмотра двигателя в эксплуатации?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Долить масло в двигатель, чтобы избежать его поломки",
             optionTwo = "Подать заявку на ремонт двигателя",
             optionThree = "Принять меры для немедленного устранения неисправности",
@@ -6101,7 +6101,7 @@ object MMS {
         val mms_5_q3 = Question(
             id = "ММС 5.3",
             question = "Что необходимо предпринять, если неисправность топливной системы при работающем двигателе устранить невозможно?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Вернуться на базу",
             optionTwo = "Остановить двигатель и вызвать буксировщик",
             optionThree = "Остановить двигатель, выяснить причины и принять меры для предотвращения проникновения топлива за борт",
@@ -6114,7 +6114,7 @@ object MMS {
         val mms_5_q4 = Question(
             id = "ММС 5.4",
             question = "Куда следует осуществлять слив топлива, масла и всех смесей с содержанием топлива при осмотре и ремонте редуктора и его систем?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "В специальные заранее подготовленные поддоны или иные емкости",
             optionTwo = "За борт",
             optionThree = "Исходя из обстановки, применяется любой из перечисленных способов",
@@ -6127,7 +6127,7 @@ object MMS {
         val mms_5_q5 = Question(
             id = "ММС 5.5",
             question = "Что необходимо предпринять перед началом приемки топлива?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Закрыть палубные шпигаты",
             optionTwo = "Закрыть палубный шпигат в районе шлангового соединения",
             optionThree = "Открыть палубные шпигаты",
@@ -6149,7 +6149,7 @@ object MMS {
         val mms_5_q6 = Question(
             id = "ММС 5.6",
             question = "Когда следует отсоединять приемные шланги после окончания приемки топлива?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Немедленно после окончания приемки топлива",
             optionTwo = "После протирки приемного шланга и шлангового соединения ветошью",
             optionThree = "После удаления из них топлива",
@@ -6165,7 +6165,7 @@ object MMS {
         val mms_5_q7 = Question(
             id = "ММС 5.7",
             question = "Каким образом проверяется герметичность топливных шлангов и их соединений во время приемки топлива?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Путем визуального осмотра и ощупывания",
             optionTwo = "Путем постепенного повышения давления до рабочего",
             optionThree = "Путем резкого повышения давления до рабочего",
@@ -6183,7 +6183,7 @@ object MMS {
         val mms_5_q8 = Question(
             id = "ММС 5.8",
             question = "Какие действия следует предпринять при обнаружении незначительной течи топлива через клапаны и шланги при приемке топлива?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_bec7f60c,
             optionOne = "Поджать шланговые соединения",
             optionTwo = "Остановить подачу топлива и поджать шланговые соединения",
             optionThree = "Немедленно полностью перекрыть трубопровод приема топлива",
@@ -6220,7 +6220,7 @@ object MMS {
         val mms_6_q1 = Question(
             id = "ММС 6.1",
             question = "Какую наибольшую опасность представляют закрытые травмы грудной клетки и брюшной полости?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_6619dde3,
             optionOne = "Нарушение пищеварения",
             optionTwo = "Нарушение функции дыхания",
             optionThree = "Выраженный болевой синдромом",
@@ -6234,7 +6234,7 @@ object MMS {
         val mms_6_q2 = Question(
             id = "ММС 6.2",
             question = "В течение какого времени наступает смерть клеток головного мозга в отсутствии поступления кислорода на фоне нормальной температуры тела?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_f788c476,
             optionOne = "Через 4-6 минут",
             optionTwo = "Через 2-3 минуты",
             optionThree = "Через 10-15 минут",
@@ -6247,7 +6247,7 @@ object MMS {
         val mms_6_q3 = Question(
             id = "ММС 6.3",
             question = "Какой угол перекладки руля требуется при выполнении поворота при движении против течения?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_3a4e268d,
             optionOne = "Больший",
             optionTwo = "Меньший",
             optionThree = "Не имеет значения",
@@ -6262,7 +6262,7 @@ object MMS {
         val mms_6_q4 = Question(
             id = "ММС 6.4",
             question = "Какой угол перекладки руля требуется при выполнении поворота при движении по течению?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_a41d42d0,
             optionOne = "Больший",
             optionTwo = "Меньший",
             optionThree = "Не имеет значения",
@@ -6277,7 +6277,7 @@ object MMS {
         val mms_6_q5 = Question(
             id = "ММС 6.5",
             question = "В каком случае запрещается эксплуатация двигателя?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_d41b5a7c,
             optionOne = "Наличие утечек топлива",
             optionTwo = "Не исправность дистанционного управлением двигателем",
             optionThree = "Не исправность включения реверс-редуктора",
@@ -6290,7 +6290,7 @@ object MMS {
         val mms_6_q6 = Question(
             id = "ММС 6.6",
             question = "Для чего могут применяться толчки на верхнюю часть живота пострадавшего?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_c20e8634,
             optionOne = "Для искусственной вентиляции легких",
             optionTwo = "Для удаления инородного тела из пищевода",
             optionThree = "Для уменьшения болевого синдрома при переломе ребер",
@@ -6314,7 +6314,7 @@ object MMS {
         val mms_6_q7 = Question(
             id = "ММС 6.7",
             question = "О чем свидетельствует сужение зрачков у пострадавшего при проведении реанимационных мероприятий?",
-            image = R.drawable.a_fish,
+            image = R.drawable.pic_9f327d04,
             optionOne = "О смерти мозга",
             optionTwo = "О недостаточном снабжении мозга кислородом",
             optionThree = "О восстановлении снабжения мозга кислородом",
@@ -6323,6 +6323,8 @@ object MMS {
             comment = "Для этого вопроса пока нет разъяснения."
         )
         questionListMMS_6.add(mms_6_q7)
+
+        Log.d("i2gan", "mms 6 7=${questionListMMS_6.size}")
 
 //        val mms_2_4_q = Question(
 //            id = "ММС 2.4.",
