@@ -7402,6 +7402,13 @@ object VVP {
 
 
 
+//        git remote add origin https://github.com/aka-i2gan/test.git
+//        git add -u
+//        git commit -m "Some text"
+//        git push -u origin main
+
+
+
 
 
         return questionListVVP_5
