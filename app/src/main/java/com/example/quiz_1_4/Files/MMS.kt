@@ -6324,6 +6324,17 @@ object MMS {
         )
         questionListMMS_6.add(mms_6_q7)
 
+        var questionListMMS_all: ArrayList<Question>
+
+        questionListMMS_all = (questionListMMS_1_1 + questionListMMS_1_2 + questionListMMS_1_3 + questionListMMS_1_4 + questionListMMS_1_5 + questionListMMS_1_6 + questionListMMS_2_1 + questionListMMS_2_1 + questionListMMS_2_2 + questionListMMS_2_3 + questionListMMS_2_4 + questionListMMS_2_5 + questionListMMS_3 + questionListMMS_4 + questionListMMS_5 + questionListMMS_6) as ArrayList<Question>
+
+        Log.d("i2gan", "${questionListMMS_all.size}")
+//
+//        questionListVVP_all = (
+//                questionListVVP_1_1 + questionListVVP_1_2 + questionListVVP_1_3 + questionListVVP_1_4 + questionListVVP_2 + questionListVVP_3 + questionListVVP_4 + questionListVVP_5) as ArrayList<Question>
+//
+//        Log.d("i2gan", "${questionListVVP_all.size}")
+
         Log.d("i2gan", "mms 6 7=${questionListMMS_6.size}")
 
 //        val mms_2_4_q = Question(
@@ -6341,7 +6352,7 @@ object MMS {
 
 
 
-        return questionListMMS_1_5
+        return questionListMMS_all
 
 //        git remote add origin https://github.com/aka-i2gan/test.git
 //        git add -u

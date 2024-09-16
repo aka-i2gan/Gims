@@ -86,7 +86,7 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
          * из урока
          */
         // получаем список вопросов
-        mQuestionList = MMS.getMMSQuestions()
+        mQuestionList = VVP.getVVPQuestions()
 
         setQuestion()
 
@@ -189,6 +189,7 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
         }
     }
 
+    @SuppressLint("SetTextI18n")
     fun setQuestion() {
 
         // вопрос из списка вопросов
@@ -206,10 +207,10 @@ class ExamActivity : AppCompatActivity(), View.OnClickListener {
 
         // Progress Bar
         bndCl.progressBar.progress = mCurrentPosition
-        bndCl.tvProgress.text = "$mCurrentPosition / ${bndCl.progressBar.max}"
+        bndCl.tvProgress.text = "$mCurrentPosition / ${mQuestionList!!.size}"
 
         // Текст вопроса
-        bndCl.tvQuestion.text = question!!.question
+        bndCl.tvQuestion.text = question.question
 
         // картинка вопроса
         bndCl.ivQuestionImage.setImageResource(question.image)
